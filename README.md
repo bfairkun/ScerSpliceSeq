@@ -17,7 +17,7 @@ Throughout the bash script (script_master_copy-3.sh), output directories and fil
 ```bash
 mkdir MyNewDirectory
 cd MyNewDirectory
-git clone myrepo
+git clone https://github.com/bfairkun/ScerSpliceSeq.git
 ```
 
 But before running the script, you should probably check the global variables at the top of the script that define some filepaths. In its current form, all of these are defined as paths to files that come with this repository, so the script should run fine as is. However, if you want to run the script on your own fastq fata (as opposed to the test data that comes with this repository), you will need to change the fastq directory filepath. Note that the fastq files in your fastq directory must all be paired, compressed, and named as {samplename}\_R1.fastq.gz and {samplename}_R2.fastq.gz. Otherwise, you will have to change the glob pattern in the script.
@@ -39,10 +39,10 @@ the  output directory '/Filepath/To/MyNewDirectory/STAR\_DuplicateReadsRemovedAl
 The file /Filepath/To/MyNewDirectory/MappingStats.txt is a tab-delimited text file that summarizes for each sample, how many on-target, off-target, and unmappable reads there were for each sample before and after filtering PCR duplicates.
 
 The files in /Filepath/To/MyNewDirectory/Branchpoint_heatplots are plots like below:
-![alt text](./images/100K\_Subsampled.BranchPointAbsoluteMeanPeak.pdf)
-![alt text](./images/100K\_Subsampled.BranchPointRelativeMeanCutoff.pdf)
-![alt text](./images/100K\_Subsampled.TSSAbsoluteMeanPeak.pdf)
-![alt text](./images/100K\_Subsampled.TSSRelativeMeanCutoff.pdf)
+![alt text](./images/100K\_Subsampled.BranchPointAbsoluteMeanPeak.png)
+![alt text](./images/100K\_Subsampled.BranchPointRelativeMeanCutoff.png)
+![alt text](./images/100K\_Subsampled.TSSAbsoluteMeanPeak.png)
+![alt text](./images/100K\_Subsampled.TSSRelativeMeanCutoff.png)
 
-These plots were made using the SampleData which has only 100K reads. A real dataset would make the plots look better. The underlying matrix of read counts at each position around the branch point for each gene can be found in the '/Filepath/To/MyNewDirectory/STAR\_DuplicateReadsRemovedAlignments' directory. 
+These plots were made using the SampleData which has only 100K reads. A real dataset would make the plots look better. Depending on the read-depth you made need to go back to the bash script and change the parameters in the plotHeatmap command to get the axes scale correct. The underlying matrix of read counts at each position around the branch point for each gene can be found in the '/Filepath/To/MyNewDirectory/STAR\_DuplicateReadsRemovedAlignments' directory. 
 
