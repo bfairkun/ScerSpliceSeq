@@ -27,7 +27,7 @@ When all is set, run the script from your new directory
 ```bash
 pwd
 $ /Filepath/To/MyNewDirectory
-bash ./myrepo/ScerSpliceSeqPipeline.sh
+bash ./ScerSpliceSeq/ScerSpliceSeqPipeline.sh
 ```
 
 ## Summary of output
