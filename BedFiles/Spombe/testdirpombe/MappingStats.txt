@@ -1,0 +1,1 @@
+Sample	TargetReadCount	OfftargetReadCount	UnextendedPrimerReadCount	UnmappedReadcount	TargetUniqueReadCount	OfftargetUniqueReadCount	UnextendedPrimerUniqueReadCount	UnmappedUniqueReadcount
