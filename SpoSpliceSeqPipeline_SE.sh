@@ -57,8 +57,10 @@ do
     UnextendedPrimerReadCount=$(samtools view -b -F 260 $OutDir/STAR_AllReadsAlignments/$samplename/Aligned.out.bam | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -f 1 | samtools view | wc -l)
     TargetReadCount=$(expr $TotalPrimerRegionReadCount - $UnextendedPrimerReadCount)
     OffTargetReadCount=$(expr $MappedReadCount - $TotalPrimerRegionReadCount)
-    UnmappedReadCount=$(samtools view -f 4 -F 256 $OutDir/STAR_AllReadsAlignments/$samplename/Aligned.out.bam | wc -l)
-    printf "\n$samplename\t$TargetReadCount\t$OffTargetReadCount\t$UnextendedPrimerReadCount\t$UnmappedReadCount" >> $OutDir/MappingStats.txt
+    OfftargetReadCountFromUnmapped=$(STAR --genomeDir $OutDir/STAR_GenomeDirectory --readFilesIn <(samtools bam2fq -f 4 $OutDir/STAR_AllReadsAlignments/$samplename/Aligned.out.sam) --readMapNumber -1 --alignIntronMin 20 --alignIntronMax 1100 --alignEndsType EndToEnd --clip3pAdapterSeq CTGTCTCTTATACACATCTCCGAGCCCACGAGAC --clip5pNbases 32 0 --alignMatesGapMax 400 --alignSplicedMateMapLmin 16 --outSAMattributes All --runThreadN 4 --alignSJDBoverhangMin 1 --outSAMmultNmax 1 --outFilterMismatchNmax 3 --outSAMtype BAM SortedByCoordinate --outStd BAM_SortedByCoordinate | samtools view -b -F 260 | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -v | samtools view | wc -l)
+    TotalOffTargetReadCount=$(expr $OffTargetReadCount + $OfftargetReadCountFromUnmapped)
+    UnmappedReadCount=$(expr $(samtools view -f 4 -F 256 $OutDir/STAR_AllReadsAlignments/$samplename/Aligned.out.bam | wc -l) - $OfftargetReadCountFromUnmapped)
+    printf "\n$samplename\t$TargetReadCount\t$TotalOffTargetReadCount\t$UnextendedPrimerReadCount\t$UnmappedReadCount" >> $OutDir/MappingStats.txt
     
     #Filters out reads that aren't unique with respect to all bases in both reads in the original fastq files
     echo $(date +"%b %d %T") .... filtering PCR duplicate reads of $samplename
@@ -72,12 +74,13 @@ do
     #Count target, nontarget, unextended primer, unmapped reads... Append to MappingStats.txt
     MappedReadCount=$(samtools view -F 260 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | wc -l)
     TotalPrimerRegionReadCount=$(samtools view -b -F 260 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam | samtools view | wc -l)
-    UnextendedPrimerReadCount=$(samtools view -b -F 260 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.out.bam | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -f 1 | samtools view | wc -l)
+    UnextendedPrimerReadCount=$(samtools view -b -F 260 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -f 1 | samtools view | wc -l)
     TargetReadCount=$(expr $TotalPrimerRegionReadCount - $UnextendedPrimerReadCount)
     OffTargetReadCount=$(expr $MappedReadCount - $TotalPrimerRegionReadCount)
-    UnmappedReadCount=$(samtools view -f 4 -F 256 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | wc -l)
-    printf "\t$TargetReadCount\t$OffTargetReadCount\t$UnextendedPrimerReadCount\t$UnmappedReadCount" >> $OutDir/MappingStats.txt
-    
+    OfftargetReadCountFromUnmapped=$(STAR --genomeDir $OutDir/STAR_GenomeDirectory --readFilesIn <(samtools bam2fq -f 4 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam) --readMapNumber -1 --alignIntronMin 20 --alignIntronMax 1100 --alignEndsType EndToEnd --clip3pAdapterSeq CTGTCTCTTATACACATCTCCGAGCCCACGAGAC --clip5pNbases 32 0 --alignMatesGapMax 400 --alignSplicedMateMapLmin 16 --outSAMattributes All --runThreadN 4 --alignSJDBoverhangMin 1 --outSAMmultNmax 1 --outFilterMismatchNmax 3 --outSAMtype BAM SortedByCoordinate --outStd BAM_SortedByCoordinate | samtools view -b -F 260 | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -v | samtools view | wc -l)
+    TotalOffTargetReadCount=$(expr $OffTargetReadCount + $OfftargetReadCountFromUnmapped)
+    UnmappedReadCount=$(expr $(samtools view -f 4 -F 256 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | wc -l) - $OfftargetReadCountFromUnmapped)
+    printf "\t$TargetReadCount\t$TotalOffTargetReadCount\t$UnextendedPrimerReadCount\t$UnmappedReadCount" >> $OutDir/MappingStats.txt
     
     #Filter out alignments that are under 30bp aligned (i.e. either observed template length (SAM field 9), or for unpaired alignments the CIGAR matches are > 30
     cat <(samtools view -H $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam) <(samtools view $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | perl -F'\t' -lane 'BEGIN {use List::Util qw(sum);} @mymatches = $F[5] =~ m/(\d+)M/g; if( (abs($F[8]) >= 30) || (sum(@mymatches)>30) ) {print}') | samtools view -bS - > $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Filtered.bam

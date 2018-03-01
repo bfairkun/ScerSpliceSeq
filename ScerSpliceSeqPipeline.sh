@@ -10,8 +10,8 @@ genomegtf="$(dirname $0)/ScerReferenceGenome/SGD_Scer.gff" #Must be gff; if usin
 branchtothreess="$(dirname $0)/BedFiles/ScerBranchesTo3ss.sorted.bed" #the bed file needed to generate heatmap
 targetintrons="$(dirname $0)/BedFiles/TargetIntrons.sorted.bed"
 transcriptsBed="$(dirname $0)/BedFiles/Supplemental_Table_S2_Booth_TSS.sorted.bed"
-fastqDirectory="./ScerSpliceSeqFastq" #Directory should contain paired end read files, where each sample has an identical prefix and fastq files suffixed with _R1.fastq and _R2.fastq.
-OutDir="./ScerSpliceSeqFastq_ResultsOrig"
+fastqDirectory="./HansenDataTest" #Directory should contain paired end read files, where each sample has an identical prefix and fastq files suffixed with _R1.fastq and _R2.fastq.
+OutDir="./HansenDataTest_Results"
 
 #==================
 #Pre-alignment steps
@@ -56,8 +56,10 @@ do
     UnextendedPrimerReadCount=$(samtools view -b -f 65 -F 260 $OutDir/Aligned.out.bam | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -f 1 | samtools view | wc -l)
     TargetReadCount=$(expr $TotalPrimerRegionReadCount - $UnextendedPrimerReadCount)
     OffTargetReadCount=$(expr $MappedReadCount - $TotalPrimerRegionReadCount)
-    UnmappedReadCount=$(samtools view -f 69 -F 256 $OutDir/Aligned.out.bam | wc -l)
-    printf "\n$samplename\t$TargetReadCount\t$OffTargetReadCount\t$UnextendedPrimerReadCount\t$UnmappedReadCount" >> $OutDir/MappingStats.txt
+    OfftargetReadCountFromUnmapped=$(STAR --genomeDir $OutDir/STAR_GenomeDirectory --readFilesIn <(samtools bam2fq -f 68 $OutDir/STAR_AllReadsAlignments/$samplename/Aligned.out.sam) <(samtools bam2fq -f 136 $OutDir/STAR_AllReadsAlignments/$samplename/Aligned.out.sam) --readMapNumber -1 --alignIntronMin 20 --alignIntronMax 1100 --alignEndsType EndToEnd --clip3pAdapterSeq CTGTCTCTTATACACATCTCCGAGCCCACGAGAC --clip5pNbases 32 0 --alignMatesGapMax 400 --alignSplicedMateMapLmin 16 --outSAMattributes All --runThreadN 4 --alignSJDBoverhangMin 1 --outSAMmultNmax 1 --outFilterMismatchNmax 3 --outSAMtype BAM SortedByCoordinate --outStd BAM_SortedByCoordinate | samtools view -b -f 65 -F 260 | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -v | samtools view | wc -l)
+    TotalOffTargetReadCount=$(expr $OffTargetReadCount + $OfftargetReadCountFromUnmapped)
+    UnmappedReadCount=$(expr $(samtools view -f 69 -F 256 $OutDir/Aligned.out.bam | wc -l) - $OfftargetReadCountFromUnmapped)
+    printf "\n$samplename\t$TargetReadCount\t$TotalOffTargetReadCount\t$UnextendedPrimerReadCount\t$UnmappedReadCount" >> $OutDir/MappingStats.txt
 
     #Filters out reads that aren't unique with respect to all bases in both reads in the original fastq files
     echo $(date +"%b %d %T") .... filtering PCR duplicate reads of $samplename
@@ -74,8 +76,10 @@ do
     UnextendedPrimerReadCount=$(samtools view -b -f 65 -F 260 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -f 1 | samtools view | wc -l)
     TargetReadCount=$(expr $TotalPrimerRegionReadCount - $UnextendedPrimerReadCount)
     OffTargetReadCount=$(expr $MappedReadCount - $TotalPrimerRegionReadCount)
-    UnmappedReadCount=$(samtools view -f 69 -F 256 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | wc -l)
-    printf "\t$TargetReadCount\t$OffTargetReadCount\t$UnextendedPrimerReadCount\t$UnmappedReadCount" >> $OutDir/MappingStats.txt
+    OfftargetReadCountFromUnmapped=$(STAR --genomeDir $OutDir/STAR_GenomeDirectory --readFilesIn <(samtools bam2fq -f 68 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam) <(samtools bam2fq -f 136 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam) --readMapNumber -1 --alignIntronMin 20 --alignIntronMax 1100 --alignEndsType EndToEnd --clip3pAdapterSeq CTGTCTCTTATACACATCTCCGAGCCCACGAGAC --clip5pNbases 32 0 --alignMatesGapMax 400 --alignSplicedMateMapLmin 16 --outSAMattributes All --runThreadN 4 --alignSJDBoverhangMin 1 --outSAMmultNmax 1 --outFilterMismatchNmax 3 --outSAMtype BAM SortedByCoordinate --outStd BAM_SortedByCoordinate | samtools view -b -f 65 -F 260 | bedtools intersect -abam - -wa -b $OutDir/PrimerRegions.sorted.bed -sorted -g $genomefasta.chrome.sizes -S -ubam -v | samtools view | wc -l)
+    TotalOffTargetReadCount=$(expr $OffTargetReadCount + $OfftargetReadCountFromUnmapped)
+    UnmappedReadCount=$(expr $(samtools view -f 69 -F 256 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | wc -l) - $OfftargetReadCountFromUnmapped)
+    printf "\t$TargetReadCount\t$TotalOffTargetReadCount\t$UnextendedPrimerReadCount\t$UnmappedReadCount" >> $OutDir/MappingStats.txt
 
     #Make splicing-aware, paired-end gap-filled in bedgraph coverage files
     bedtools unionbedg -i <(samtools view -b -f 3 -F 256 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | bedtools genomecov -ibam - -bg -pc -strand -) <(samtools view -b -f 3 -F 256 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | bedtools genomecov -ibam - -bg -strand - -scale -1) <(samtools view -b -f 3 -F 256 $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/Aligned.sortedByCoord.out.bam | bedtools genomecov -ibam - -bg -strand - -split) | awk -F'\t' -v OFS='\t' '{print $1, $2, $3, $4+$5+$6}' > $OutDir/STAR_DuplicateReadsRemovedAlignments/$samplename/pe_SpliceAwarePlusStrand.bedgraph
