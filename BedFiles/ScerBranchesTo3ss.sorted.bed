@@ -1,293 +1,292 @@
-YAL030W	chrI	87438	87500	"gene_biotype ""protein_coding""; gene_id ""YAL030W""; gene_name ""SNC1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3422""; transcript_biotype ""protein_coding""; transcript_id ""YAL030W""; transcript_name ""SNC1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6281"";"	.	+
-YAL003W	chrI	142585	142619	"gene_biotype ""protein_coding""; gene_id ""YAL003W""; gene_name ""EFB1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6521""; transcript_biotype ""protein_coding""; transcript_id ""YAL003W""; transcript_name ""EFB1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2342"";"	.	+
-YAL001C	chrI	151007	151020	"gene_biotype ""protein_coding""; gene_id ""YAL001C""; gene_name ""TFC3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6179""; transcript_biotype ""protein_coding""; transcript_id ""YAL001C""; transcript_name ""TFC3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1988"";"	.	-
-YBL092W	chrII	45939	45977	"gene_id ""Rpl32"""	.	+
-YBL091C-A	chrII	47059	47074	"gene_biotype ""protein_coding""; gene_id ""YBL091C-A""; gene_name ""SCS22""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1336""; transcript_biotype ""protein_coding""; transcript_id ""YBL091C-A""; transcript_name ""SCS22""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6849"";"	.	-
-YBL087C	chrII	60194	60238	"gene_biotype ""protein_coding""; gene_id ""YBL087C""; gene_name ""RPL23A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6177""; transcript_biotype ""protein_coding""; transcript_id ""YBL087C""; transcript_name ""RPL23A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS389"";"	.	-
-YBL072C	chrII	89133	89160	"gene_id ""RPS8A"""	.	-
-YBL059C-A	chrII	110421	110449	"gene_biotype ""protein_coding""; gene_id ""YBL059C-A""; gene_name ""CMC2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6414""; transcript_biotype ""protein_coding""; transcript_id ""YBL059C-A""; transcript_name ""CMC2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5714"";"	.	-
-YBL059W	chrII	110930	110948	"gene_biotype ""protein_coding""; gene_id ""YBL059W""; gene_name ""YBL059W""; gene_source ""ensembl""; gene_version ""1""; p_id ""P236""; transcript_biotype ""protein_coding""; transcript_id ""YBL059W""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2763"";"	.	+
-YBL050W	chrII	125231	125270	"gene_biotype ""protein_coding""; gene_id ""YBL050W""; gene_name ""SEC17""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2588""; transcript_biotype ""protein_coding""; transcript_id ""YBL050W""; transcript_name ""SEC17""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS188"";"	.	+
-YBL040C	chrII	142750	142784	"gene_biotype ""protein_coding""; gene_id ""YBL040C""; gene_name ""ERD2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4863""; transcript_biotype ""protein_coding""; transcript_id ""YBL040C""; transcript_name ""ERD2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4348"";"	.	-
-YBL027W	chrII	168767	168808	"gene_biotype ""protein_coding""; gene_id ""YBL027W""; gene_name ""RPL19B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3852""; transcript_biotype ""protein_coding""; transcript_id ""YBL027W""; transcript_name ""RPL19B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5351"";"	.	+
-YBL026W	chrII	170768	170804	"gene_biotype ""protein_coding""; gene_id ""YBL026W""; gene_name ""LSM2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6394""; transcript_biotype ""protein_coding""; transcript_id ""YBL026W""; transcript_name ""LSM2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6769"";"	.	+
-YBL018C	chrII	186353	186372	"gene_biotype ""protein_coding""; gene_id ""YBL018C""; gene_name ""POP8""; gene_source ""ensembl""; gene_version ""1""; p_id ""P132""; transcript_biotype ""protein_coding""; transcript_id ""YBL018C""; transcript_name ""POP8""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6300"";"	.	-
-YBR048W	chrII	333367	333386	"gene_biotype ""protein_coding""; gene_id ""YBR048W""; gene_name ""RPS11B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1739""; transcript_biotype ""protein_coding""; transcript_id ""YBR048W""; transcript_name ""RPS11B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5504"";"	.	+
-YBR062C	chrII	366503	366536	"gene_biotype ""protein_coding""; gene_id ""YBR062C""; gene_name ""YBR062C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4122""; transcript_biotype ""protein_coding""; transcript_id ""YBR062C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5094"";"	.	-
-YBR078W	chrII	393486	393510	"gene_biotype ""protein_coding""; gene_id ""YBR078W""; gene_name ""ECM33""; gene_source ""ensembl""; gene_version ""1""; p_id ""P78""; transcript_biotype ""protein_coding""; transcript_id ""YBR078W""; transcript_name ""ECM33""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1307"";"	.	+
-YBR082C	chrII	407028	407053	"gene_biotype ""protein_coding""; gene_id ""YBR082C""; gene_name ""UBC4""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6360""; transcript_biotype ""protein_coding""; transcript_id ""YBR082C""; transcript_name ""UBC4""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6031"";"	.	-
-YBR084C-A	chrII	414754	414768	"gene_biotype ""protein_coding""; gene_id ""YBR084C-A""; gene_name ""RPL19A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5126""; transcript_biotype ""protein_coding""; transcript_id ""YBR084C-A""; transcript_name ""RPL19A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6187"";"	.	-
-YBR089C-A	chrII	426517	426530	"gene_id ""NHP6B"""	.	-
-YBR090C	chrII	426517	426531	"gene_biotype ""protein_coding""; gene_id ""YBR090C""; gene_name ""YBR090C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2761""; transcript_biotype ""protein_coding""; transcript_id ""YBR090C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4435"";"	.	-
-YBR111W-A-1	chrII	462261	462289	"gene_biotype ""protein_coding""; gene_id ""YBR111W-A-1""; gene_name ""SUS1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4255""; transcript_biotype ""protein_coding""; transcript_id ""YBR111W-A""; transcript_name ""SUS1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2937"";"	.	+
-YBR111W-A-2	chrII	462478	462499	"gene_biotype ""protein_coding""; gene_id ""YBR111W-A-2""; gene_name ""SUS1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4255""; transcript_biotype ""protein_coding""; transcript_id ""YBR111W-A""; transcript_name ""SUS1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2937"";"	.	+
-YBR119W	chrII	479395	479434	"gene_biotype ""protein_coding""; gene_id ""YBR119W""; gene_name ""MUD1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3839""; transcript_biotype ""protein_coding""; transcript_id ""YBR119W""; transcript_name ""MUD1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3256"";"	.	+
-YBR181C	chrII	592417	592439	"gene_biotype ""protein_coding""; gene_id ""YBR181C""; gene_name ""RPS6B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3642""; transcript_biotype ""protein_coding""; transcript_id ""YBR181C""; transcript_name ""RPS6B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1676"";"	.	-
-YBR186W	chrII	602180	602216	"gene_biotype ""protein_coding""; gene_id ""YBR186W""; gene_name ""PCH2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P338""; transcript_biotype ""protein_coding""; transcript_id ""YBR186W""; transcript_name ""PCH2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2538"";"	.	+
-YBR189W	chrII	604896	604927	"gene_biotype ""protein_coding""; gene_id ""YBR189W""; gene_name ""RPS9B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P822""; transcript_biotype ""protein_coding""; transcript_id ""YBR189W""; transcript_name ""RPS9B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1114"";"	.	+
-YBR191W	chrII	606620	606668	"gene_biotype ""protein_coding""; gene_id ""YBR191W""; gene_name ""RPL21A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1410""; transcript_biotype ""protein_coding""; transcript_id ""YBR191W""; transcript_name ""RPL21A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2367"";"	.	+
-YBR215W	chrII	653434	653452	"gene_id ""HPC2"""	.	+
-YBR230C	chrII	679943	679978	"gene_biotype ""protein_coding""; gene_id ""YBR230C""; gene_name ""OM14""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2223""; transcript_biotype ""protein_coding""; transcript_id ""YBR230C""; transcript_name ""OM14""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4244"";"	.	-
-YBR255C-A	chrII	726918	726952	"gene_biotype ""protein_coding""; gene_id ""YBR255C-A""; gene_name ""YBR255C-A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6533""; transcript_biotype ""protein_coding""; transcript_id ""YBR255C-A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS775"";"	.	-
-YCL012C	chrIII	101634	101646	"gene_biotype ""protein_coding""; gene_id ""YCL012C""; gene_name ""YCL012C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P385""; transcript_biotype ""protein_coding""; transcript_id ""YCL012C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS852"";"	.	-
-YCL005W-A-1	chrIII	107089	107110	"gene_biotype ""protein_coding""; gene_id ""YCL005W-A-1""; gene_name ""VMA9""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4155""; transcript_biotype ""protein_coding""; transcript_id ""YCL005W-A""; transcript_name ""VMA9""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1612"";"	.	+
-YCL005W-A-2	chrIII	107255	107287	"gene_biotype ""protein_coding""; gene_id ""YCL005W-A-2""; gene_name ""VMA9""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4155""; transcript_biotype ""protein_coding""; transcript_id ""YCL005W-A""; transcript_name ""VMA9""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1612"";"	.	+
-YCL002C	chrIII	111558	111589	"gene_biotype ""protein_coding""; gene_id ""YCL002C""; gene_name ""YCL002C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3063""; transcript_biotype ""protein_coding""; transcript_id ""YCL002C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5927"";"	.	-
-YCR028C-A	chrIII	173116	173141	"gene_biotype ""protein_coding""; gene_id ""YCR028C-A""; gene_name ""RIM1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1711""; transcript_biotype ""protein_coding""; transcript_id ""YCR028C-A""; transcript_name ""RIM1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4138"";"	.	-
-YCR031C	chrIII	177907	177956	"gene_biotype ""protein_coding""; gene_id ""YCR031C""; gene_name ""RPS14A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1245""; transcript_biotype ""protein_coding""; transcript_id ""YCR031C""; transcript_name ""RPS14A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS828"";"	.	-
-YCR097W-1	chrIII	293982	293993	"gene_biotype ""protein_coding""; gene_id ""YCR097W-1""; gene_name ""HMRA1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4854""; transcript_biotype ""protein_coding""; transcript_id ""YCR097W""; transcript_name ""HMRA1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS614"";"	.	+
-YCR097W-2	chrIII	294280	294291	"gene_biotype ""protein_coding""; gene_id ""YCR097W-2""; gene_name ""HMRA1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4854""; transcript_biotype ""protein_coding""; transcript_id ""YCR097W""; transcript_name ""HMRA1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS614"";"	.	+
-YDL219W	chrIV	65357	65377	"gene_biotype ""protein_coding""; gene_id ""YDL219W""; gene_name ""DTD1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1928""; transcript_biotype ""protein_coding""; transcript_id ""YDL219W""; transcript_name ""DTD1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5291"";"	.	+
-YDL191W	chrIV	118109	118157	"gene_biotype ""protein_coding""; gene_id ""YDL191W""; gene_name ""RPL35A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5934""; transcript_biotype ""protein_coding""; transcript_id ""YDL191W""; transcript_name ""RPL35A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6907"";"	.	+
-YDL189W	chrIV	122159	122176	"gene_id ""RBS1"""	.	+
-YDL137W	chrIV	216472	216489	"gene_id ""ARF2"""	.	+
-YDL136W	chrIV	217970	218007	"gene_biotype ""protein_coding""; gene_id ""YDL136W""; gene_name ""RPL35B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2153""; transcript_biotype ""protein_coding""; transcript_id ""YDL136W""; transcript_name ""RPL35B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2284"";"	.	+
-YDL130W	chrIV	230262	230320	"gene_biotype ""protein_coding""; gene_id ""YDL130W""; gene_name ""RPP1B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2922""; transcript_biotype ""protein_coding""; transcript_id ""YDL130W""; transcript_name ""RPP1B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS442"";"	.	+
-YDL125C	chrIV	239399	239421	"gene_biotype ""protein_coding""; gene_id ""YDL125C""; gene_name ""HNT1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2710""; transcript_biotype ""protein_coding""; transcript_id ""YDL125C""; transcript_name ""HNT1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2443"";"	.	-
-YDL115C	chrIV	254975	254999	"gene_biotype ""protein_coding""; gene_id ""YDL115C""; gene_name ""IWR1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3397""; transcript_biotype ""protein_coding""; transcript_id ""YDL115C""; transcript_name ""IWR1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5730"";"	.	-
-YDL108W	chrIV	267780	267806	"gene_biotype ""protein_coding""; gene_id ""YDL108W""; gene_name ""KIN28""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5055""; transcript_biotype ""protein_coding""; transcript_id ""YDL108W""; transcript_name ""KIN28""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2230"";"	.	+
-YDL083C	chrIV	307334	307375	"gene_biotype ""protein_coding""; gene_id ""YDL083C""; gene_name ""RPS16B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P985""; transcript_biotype ""protein_coding""; transcript_id ""YDL083C""; transcript_name ""RPS16B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1731"";"	.	-
-YDL082W	chrIV	308753	308792	"gene_biotype ""protein_coding""; gene_id ""YDL082W""; gene_name ""RPL13A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4528""; transcript_biotype ""protein_coding""; transcript_id ""YDL082W""; transcript_name ""RPL13A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS577"";"	.	+
-YDL079C	chrIV	314045	314056	"gene_biotype ""protein_coding""; gene_id ""YDL079C""; gene_name ""MRK1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P85""; transcript_biotype ""protein_coding""; transcript_id ""YDL079C""; transcript_name ""MRK1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4833"";"	.	-
-YDL075W	chrIV	322674	322703	"gene_biotype ""protein_coding""; gene_id ""YDL075W""; gene_name ""RPL31A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3320""; transcript_biotype ""protein_coding""; transcript_id ""YDL075W""; transcript_name ""RPL31A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5580"";"	.	+
-YDL064W	chrIV	337596	337634	"gene_biotype ""protein_coding""; gene_id ""YDL064W""; gene_name ""UBC9""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4593""; transcript_biotype ""protein_coding""; transcript_id ""YDL064W""; transcript_name ""UBC9""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3731"";"	.	+
-YDL061C	chrIV	340811	340849	"gene_id ""RPS29B"""	.	-
-YDL029W	chrIV	399470	399484	"gene_biotype ""protein_coding""; gene_id ""YDL029W""; gene_name ""ARP2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1394""; transcript_biotype ""protein_coding""; transcript_id ""YDL029W""; transcript_name ""ARP2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5532"";"	.	+
-YDL012C	chrIV	431387	431425	"gene_biotype ""protein_coding""; gene_id ""YDL012C""; gene_name ""YDL012C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5724""; transcript_biotype ""protein_coding""; transcript_id ""YDL012C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2431"";"	.	-
-YDR005C	chrIV	458018	458050	"gene_biotype ""protein_coding""; gene_id ""YDR005C""; gene_name ""MAF1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1858""; transcript_biotype ""protein_coding""; transcript_id ""YDR005C""; transcript_name ""MAF1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6420"";"	.	-
-YDR025W	chrIV	491875	491898	"gene_biotype ""protein_coding""; gene_id ""YDR025W""; gene_name ""RPS11A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4233""; transcript_biotype ""protein_coding""; transcript_id ""YDR025W""; transcript_name ""RPS11A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS698"";"	.	+
-YDR059C	chrIV	569634	569666	"gene_biotype ""protein_coding""; gene_id ""YDR059C""; gene_name ""UBC5""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4874""; transcript_biotype ""protein_coding""; transcript_id ""YDR059C""; transcript_name ""UBC5""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3771"";"	.	-
-YDR064W	chrIV	579964	580017	"gene_biotype ""protein_coding""; gene_id ""YDR064W""; gene_name ""RPS13""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5047""; transcript_biotype ""protein_coding""; transcript_id ""YDR064W""; transcript_name ""RPS13""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4225"";"	.	+
-YDR092W	chrIV	630018	630173	"gene_biotype ""protein_coding""; gene_id ""YDR092W""; gene_name ""UBC13""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4769""; transcript_biotype ""protein_coding""; transcript_id ""YDR092W""; transcript_name ""UBC13""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5943"";"	.	+
-YDR099W	chrIV	653426	653523	"gene_id ""BMH2"""	.	+
-YDR129C	chrIV	715248	715267	"gene_biotype ""protein_coding""; gene_id ""YDR129C""; gene_name ""SAC6""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4331""; transcript_biotype ""protein_coding""; transcript_id ""YDR129C""; transcript_name ""SAC6""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6886"";"	.	-
-YDR139C	chrIV	733703	733715	"gene_biotype ""protein_coding""; gene_id ""YDR139C""; gene_name ""RUB1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3271""; transcript_biotype ""protein_coding""; transcript_id ""YDR139C""; transcript_name ""RUB1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2373"";"	.	-
-YDR305C	chrIV	1073313	1073349	"gene_biotype ""protein_coding""; gene_id ""YDR305C""; gene_name ""HNT2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3913""; transcript_biotype ""protein_coding""; transcript_id ""YDR305C""; transcript_name ""HNT2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3598"";"	.	-
-YDR318W	chrIV	1103873	1103892	"gene_biotype ""protein_coding""; gene_id ""YDR318W""; gene_name ""MCM21""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3608""; transcript_biotype ""protein_coding""; transcript_id ""YDR318W""; transcript_name ""MCM21""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1610"";"	.	+
-YDR367W	chrIV	1212948	1212978	"gene_biotype ""protein_coding""; gene_id ""YDR367W""; gene_name ""KEI1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P432""; transcript_biotype ""protein_coding""; transcript_id ""YDR367W""; transcript_name ""KEI1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4641"";"	.	+
-YDR381W	chrIV	1237588	1237608	"gene_biotype ""protein_coding""; gene_id ""YDR381W""; gene_name ""YRA1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3326""; transcript_biotype ""protein_coding""; transcript_id ""YDR381W""; transcript_name ""YRA1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6571"";"	.	+
-YDR381C-A	chrIV	1238631	1238776	"gene_biotype ""protein_coding""; gene_id ""YDR381C-A""; gene_name ""YDR381C-A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3111""; transcript_biotype ""protein_coding""; transcript_id ""YDR381C-A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6948"";"	.	-
-YDR397C	chrIV	1266770	1266797	"gene_biotype ""protein_coding""; gene_id ""YDR397C""; gene_name ""NCB2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5766""; transcript_biotype ""protein_coding""; transcript_id ""YDR397C""; transcript_name ""NCB2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1588"";"	.	-
-YDR424C-2	chrIV	1319618	1319634	"gene_biotype ""protein_coding""; gene_id ""YDR424C-2""; gene_name ""DYN2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5629""; transcript_biotype ""protein_coding""; transcript_id ""YDR424C""; transcript_name ""DYN2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5411"";"	.	-
-YDR424C-1	chrIV	1319721	1319758	"gene_biotype ""protein_coding""; gene_id ""YDR424C-1""; gene_name ""DYN2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5629""; transcript_biotype ""protein_coding""; transcript_id ""YDR424C""; transcript_name ""DYN2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5411"";"	.	-
-YDR447C	chrIV	1355237	1355274	"gene_biotype ""protein_coding""; gene_id ""YDR447C""; gene_name ""RPS17B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1178""; transcript_biotype ""protein_coding""; transcript_id ""YDR447C""; transcript_name ""RPS17B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1967"";"	.	-
-YDR450W	chrIV	1360359	1360404	"gene_biotype ""protein_coding""; gene_id ""YDR450W""; gene_name ""RPS18A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1431""; transcript_biotype ""protein_coding""; transcript_id ""YDR450W""; transcript_name ""RPS18A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4842"";"	.	+
-YDR471W	chrIV	1402163	1402184	"gene_biotype ""protein_coding""; gene_id ""YDR471W""; gene_name ""RPL27B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1289""; transcript_biotype ""protein_coding""; transcript_id ""YDR471W""; transcript_name ""RPL27B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6228"";"	.	+
-YDR500C	chrIV	1450458	1450492	"gene_biotype ""protein_coding""; gene_id ""YDR500C""; gene_name ""RPL37B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5080""; transcript_biotype ""protein_coding""; transcript_id ""YDR500C""; transcript_name ""RPL37B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3949"";"	.	-
-YEL076C-A	chrV	4323	4414	"gene_biotype ""protein_coding""; gene_id ""YEL076C-A""; gene_name ""YEL076C-A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5105""; transcript_biotype ""protein_coding""; transcript_id ""YEL076C-A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5814"";"	.	-
-YEL012W	chrV	131853	131899	"gene_biotype ""protein_coding""; gene_id ""YEL012W""; gene_name ""UBC8""; gene_source ""ensembl""; gene_version ""1""; p_id ""P201""; transcript_biotype ""protein_coding""; transcript_id ""YEL012W""; transcript_name ""UBC8""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6968"";"	.	+
-YEL003W	chrV	148255	148282	"gene_biotype ""protein_coding""; gene_id ""YEL003W""; gene_name ""GIM4""; gene_source ""ensembl""; gene_version ""1""; p_id ""P59""; transcript_biotype ""protein_coding""; transcript_id ""YEL003W""; transcript_name ""GIM4""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2059"";"	.	+
-YER003C	chrV	158995	159014	"gene_biotype ""protein_coding""; gene_id ""YER003C""; gene_name ""PMI40""; gene_source ""ensembl""; gene_version ""1""; p_id ""P12""; transcript_biotype ""protein_coding""; transcript_id ""YER003C""; transcript_name ""PMI40""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4321"";"	.	-
-YER007C-A	chrV	166772	166787	"gene_biotype ""protein_coding""; gene_id ""YER007C-A""; gene_name ""TMA20""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6474""; transcript_biotype ""protein_coding""; transcript_id ""YER007C-A""; transcript_name ""TMA20""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS842"";"	.	-
-YER044C-A	chrV	239624	239668	"gene_biotype ""protein_coding""; gene_id ""YER044C-A""; gene_name ""MEI4""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5888""; transcript_biotype ""protein_coding""; transcript_id ""YER044C-A""; transcript_name ""MEI4""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6189"";"	.	-
-YER056C-A	chrV	269752	269805	"gene_biotype ""protein_coding""; gene_id ""YER056C-A""; gene_name ""RPL34A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1614""; transcript_biotype ""protein_coding""; transcript_id ""YER056C-A""; transcript_name ""RPL34A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6153"";"	.	-
-YER074W	chrV	306749	306791	"gene_id ""RPS24A"""	.	+
-YER074W-A-1	chrV	307805	307848	"gene_biotype ""protein_coding""; gene_id ""YER074W-A-1""; gene_name ""YOS1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1653""; transcript_biotype ""protein_coding""; transcript_id ""YER074W-A""; transcript_name ""YOS1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3533"";"	.	+
-YER074W-A-2	chrV	308044	308067	"gene_biotype ""protein_coding""; gene_id ""YER074W-A-2""; gene_name ""YOS1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1653""; transcript_biotype ""protein_coding""; transcript_id ""YER074W-A""; transcript_name ""YOS1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3533"";"	.	+
-YER093C-A	chrV	348202	348221	"gene_biotype ""protein_coding""; gene_id ""YER093C-A""; gene_name ""AIM11""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1296""; transcript_biotype ""protein_coding""; transcript_id ""YER093C-A""; transcript_name ""AIM11""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5334"";"	.	-
-YER102W	chrV	363069	363092	"gene_id ""RPS8B"""	.	+
-YER117W	chrV	397229	397281	"gene_biotype ""protein_coding""; gene_id ""YER117W""; gene_name ""RPL23B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6076""; transcript_biotype ""protein_coding""; transcript_id ""YER117W""; transcript_name ""RPL23B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6044"";"	.	+
-YER131W	chrV	423918	423951	"gene_id ""RPS26B"""	.	+
-YER133W	chrV	433166	433196	"gene_biotype ""protein_coding""; gene_id ""YER133W""; gene_name ""GLC7""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6317""; transcript_biotype ""protein_coding""; transcript_id ""YER133W""; transcript_name ""GLC7""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1600"";"	.	+
-YER179W	chrV	548616	548644	"gene_biotype ""protein_coding""; gene_id ""YER179W""; gene_name ""DMC1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4346""; transcript_biotype ""protein_coding""; transcript_id ""YER179W""; transcript_name ""DMC1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6156"";"	.	+
-YFL039C	chrVI	54378	54421	"gene_biotype ""protein_coding""; gene_id ""YFL039C""; gene_name ""ACT1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4850""; transcript_biotype ""protein_coding""; transcript_id ""YFL039C""; transcript_name ""ACT1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1281"";"	.	-
-YFL034C-B	chrVI	63860	63916	"gene_biotype ""protein_coding""; gene_id ""YFL034C-B""; gene_name ""MOB2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2499""; transcript_biotype ""protein_coding""; transcript_id ""YFL034C-B""; transcript_name ""MOB2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2848"";"	.	-
-YFL034C-A	chrVI	64600	64616	"gene_biotype ""protein_coding""; gene_id ""YFL034C-A""; gene_name ""RPL22B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P813""; transcript_biotype ""protein_coding""; transcript_id ""YFL034C-A""; transcript_name ""RPL22B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1278"";"	.	-
-YFR024C-A	chrVI	203293	203316	"gene_biotype ""protein_coding""; gene_id ""YFR024C-A""; gene_name ""LSB3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1490""; transcript_biotype ""protein_coding""; transcript_id ""YFR024C-A""; transcript_name ""LSB3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3322"";"	.	-
-YFR031C-A	chrVI	221268	221303	"gene_biotype ""protein_coding""; gene_id ""YFR031C-A""; gene_name ""RPL2A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2630""; transcript_biotype ""protein_coding""; transcript_id ""YFR031C-A""; transcript_name ""RPL2A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1350"";"	.	-
-YFR032C-A	chrVI	223441	223490	"gene_id ""RPL29"""	.	-
-YFR045W	chrVI	242057	242081	"gene_biotype ""protein_coding""; gene_id ""YFR045W""; gene_name ""YFR045W""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3389""; transcript_biotype ""protein_coding""; transcript_id ""YFR045W""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3359"";"	.	+
-YGL251C	chrVII	31427	31510	"gene_biotype ""protein_coding""; gene_id ""YGL251C""; gene_name ""HFM1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4420""; transcript_biotype ""protein_coding""; transcript_id ""YGL251C""; transcript_name ""HFM1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5908"";"	.	-
-YGL232W	chrVII	62173	62189	"gene_biotype ""protein_coding""; gene_id ""YGL232W""; gene_name ""TAN1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5660""; transcript_biotype ""protein_coding""; transcript_id ""YGL232W""; transcript_name ""TAN1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS52"";"	.	+
-YGL226C-A	chrVII	72989	73035	"gene_biotype ""protein_coding""; gene_id ""YGL226C-A""; gene_name ""OST5""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3733""; transcript_biotype ""protein_coding""; transcript_id ""YGL226C-A""; transcript_name ""OST5""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1323"";"	.	-
-YGL189C	chrVII	148599	148654	"gene_id ""RPS26A"""	.	-
-YGL187C	chrVII	150184	150226	"gene_id ""COX4"""	.	-
-YGL183C	chrVII	157200	157239	"gene_biotype ""protein_coding""; gene_id ""YGL183C""; gene_name ""MND1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1052""; transcript_biotype ""protein_coding""; transcript_id ""YGL183C""; transcript_name ""MND1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3351"";"	.	-
-YGL178W	chrVII	167970	167994	"gene_biotype ""protein_coding""; gene_id ""YGL178W""; gene_name ""MPT5""; gene_source ""ensembl""; gene_version ""1""; p_id ""P783""; transcript_biotype ""protein_coding""; transcript_id ""YGL178W""; transcript_name ""MPT5""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5776"";"	.	+
-YGL137W	chrVII	250015	250086	"gene_biotype ""protein_coding""; gene_id ""YGL137W""; gene_name ""SEC27""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5418""; transcript_biotype ""protein_coding""; transcript_id ""YGL137W""; transcript_name ""SEC27""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3823"";"	.	+
-YGL103W	chrVII	311483	311526	"gene_biotype ""protein_coding""; gene_id ""YGL103W""; gene_name ""RPL28""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5778""; transcript_biotype ""protein_coding""; transcript_id ""YGL103W""; transcript_name ""RPL28""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS7023"";"	.	+
-YGL087C	chrVII	346809	346851	"gene_biotype ""protein_coding""; gene_id ""YGL087C""; gene_name ""MMS2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3122""; transcript_biotype ""protein_coding""; transcript_id ""YGL087C""; transcript_name ""MMS2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1212"";"	.	-
-YGL076C-2	chrVII	364965	365003	"gene_id ""RPL7A"""	.	-
-YGL076C-1	chrVII	365527	365558	"gene_id ""RPL7A"""	.	-
-YGL033W-1	chrVII	435723	435749	"gene_id ""HOP2"""	.	+
-YGL033W-2	chrVII	436360	436374	"gene_id ""HOP2"""	.	+
-YGL031C	chrVII	437942	437986	"gene_id ""RPL24A"""	.	-
-YGL030W	chrVII	439283	439323	"gene_biotype ""protein_coding""; gene_id ""YGL030W""; gene_name ""RPL30""; gene_source ""ensembl""; gene_version ""1""; p_id ""P825""; transcript_biotype ""protein_coding""; transcript_id ""YGL030W""; transcript_name ""RPL30""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6192"";"	.	+
-YGR001C-2	chrVII	497366	497390	"gene_biotype ""protein_coding""; gene_id ""YGR001C-2""; gene_name ""AML1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5028""; transcript_biotype ""protein_coding""; transcript_id ""YGR001C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5062"";"	.	-
-YGR001C-1	chrVII	497938	497953	"gene_biotype ""protein_coding""; gene_id ""YGR001C-1""; gene_name ""AML1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5028""; transcript_biotype ""protein_coding""; transcript_id ""YGR001C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5062"";"	.	-
-YGR027C	chrVII	534474	534506	"gene_id ""RPS25A"""	.	-
-YGR029W	chrVII	543704	543721	"gene_biotype ""protein_coding""; gene_id ""YGR029W""; gene_name ""ERV1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4588""; transcript_biotype ""protein_coding""; transcript_id ""YGR029W""; transcript_name ""ERV1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5733"";"	.	+
-YGR034W	chrVII	556278	556307	"gene_biotype ""protein_coding""; gene_id ""YGR034W""; gene_name ""RPL26B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3689""; transcript_biotype ""protein_coding""; transcript_id ""YGR034W""; transcript_name ""RPL26B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS70"";"	.	+
-YGR118W	chrVII	727335	727357	"gene_biotype ""protein_coding""; gene_id ""YGR118W""; gene_name ""RPS23A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P291""; transcript_biotype ""protein_coding""; transcript_id ""YGR118W""; transcript_name ""RPS23A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5394"";"	.	+
-YGR148C	chrVII	787787	787852	"gene_id ""RPL24B"""	.	-
-YGR183C	chrVII	859261	859282	"gene_biotype ""protein_coding""; gene_id ""YGR183C""; gene_name ""QCR9""; gene_source ""ensembl""; gene_version ""1""; p_id ""P912""; transcript_biotype ""protein_coding""; transcript_id ""YGR183C""; transcript_name ""QCR9""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1826"";"	.	-
-YGR214W	chrVII	921093	921119	"gene_biotype ""protein_coding""; gene_id ""YGR214W""; gene_name ""RPS0A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1436""; transcript_biotype ""protein_coding""; transcript_id ""YGR214W""; transcript_name ""RPS0A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6264"";"	.	+
-YGR225W	chrVII	946404	946420	"gene_biotype ""protein_coding""; gene_id ""YGR225W""; gene_name ""AMA1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2803""; transcript_biotype ""protein_coding""; transcript_id ""YGR225W""; transcript_name ""AMA1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6801"";"	.	+
-YGR296W	chrVII	1085005	1085030	"gene_biotype ""protein_coding""; gene_id ""YGR296W""; gene_name ""YRF1-3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5589""; transcript_biotype ""protein_coding""; transcript_id ""YGR296W""; transcript_name ""YRF1-3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3772"";"	.	+
-YHL001W	chrVIII	104756	104803	"gene_biotype ""protein_coding""; gene_id ""YHL001W""; gene_name ""RPL14B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1778""; transcript_biotype ""protein_coding""; transcript_id ""YHL001W""; transcript_name ""RPL14B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1050"";"	.	+
-YHR001W-A	chrVIII	107880	107894	"gene_biotype ""protein_coding""; gene_id ""YHR001W-A""; gene_name ""QCR10""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2899""; transcript_biotype ""protein_coding""; transcript_id ""YHR001W-A""; transcript_name ""QCR10""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1739"";"	.	+
-YHR010W	chrVIII	127082	127112	"gene_biotype ""protein_coding""; gene_id ""YHR010W""; gene_name ""RPL27A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1399""; transcript_biotype ""protein_coding""; transcript_id ""YHR010W""; transcript_name ""RPL27A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3980"";"	.	+
-YHR012W	chrVIII	129617	129647	"gene_biotype ""protein_coding""; gene_id ""YHR012W""; gene_name ""VPS29""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5549""; transcript_biotype ""protein_coding""; transcript_id ""YHR012W""; transcript_name ""VPS29""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2819"";"	.	+
-YHR016C	chrVIII	138241	138281	"gene_biotype ""protein_coding""; gene_id ""YHR016C""; gene_name ""YSC84""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1616""; transcript_biotype ""protein_coding""; transcript_id ""YHR016C""; transcript_name ""YSC84""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS610"";"	.	-
-YHR021C	chrVIII	148117	148172	"gene_biotype ""protein_coding""; gene_id ""YHR021C""; gene_name ""RPS27B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3830""; transcript_biotype ""protein_coding""; transcript_id ""YHR021C""; transcript_name ""RPS27B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2762"";"	.	-
-YHR039C-A	chrVIII	187515	187620	"gene_biotype ""protein_coding""; gene_id ""YHR039C-A""; gene_name ""VMA10""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4975""; transcript_biotype ""protein_coding""; transcript_id ""YHR039C-A""; transcript_name ""VMA10""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2724"";"	.	-
-YHR041C	chrVIII	189750	189785	"gene_biotype ""protein_coding""; gene_id ""YHR041C""; gene_name ""SRB2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1885""; transcript_biotype ""protein_coding""; transcript_id ""YHR041C""; transcript_name ""SRB2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3290"";"	.	-
-YHR076W	chrVIII	251231	251248	"gene_biotype ""protein_coding""; gene_id ""YHR076W""; gene_name ""PTC7""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1535""; transcript_biotype ""protein_coding""; transcript_id ""YHR076W""; transcript_name ""PTC7""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6385"";"	.	+
-YHR077C	chrVIII	255638	255687	"gene_biotype ""protein_coding""; gene_id ""YHR077C""; gene_name ""NMD2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P536""; transcript_biotype ""protein_coding""; transcript_id ""YHR077C""; transcript_name ""NMD2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5383"";"	.	-
-YHR079C-A	chrVIII	262355	262370	"gene_biotype ""protein_coding""; gene_id ""YHR079C-A""; gene_name ""SAE3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4802""; transcript_biotype ""protein_coding""; transcript_id ""YHR079C-A""; transcript_name ""SAE3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3298"";"	.	-
-YHR097C	chrVIII	298361	298415	"gene_biotype ""protein_coding""; gene_id ""YHR097C""; gene_name ""YHR097C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P497""; transcript_biotype ""protein_coding""; transcript_id ""YHR097C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2492"";"	.	-
-YHR101C	chrVIII	315772	315807	"gene_biotype ""protein_coding""; gene_id ""YHR101C""; gene_name ""BIG1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6480""; transcript_biotype ""protein_coding""; transcript_id ""YHR101C""; transcript_name ""BIG1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4538"";"	.	-
-YHR123W	chrVIII	354923	354955	"gene_biotype ""protein_coding""; gene_id ""YHR123W""; gene_name ""EPT1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6126""; transcript_biotype ""protein_coding""; transcript_id ""YHR123W""; transcript_name ""EPT1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1755"";"	.	+
-YHR141C	chrVIII	382307	382353	"gene_biotype ""protein_coding""; gene_id ""YHR141C""; gene_name ""RPL42B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6526""; transcript_biotype ""protein_coding""; transcript_id ""YHR141C""; transcript_name ""RPL42B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4496"";"	.	-
-YHR199C-A	chrVIII	498720	498731	"gene_biotype ""protein_coding""; gene_id ""YHR199C-A""; gene_name ""NBL1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P997""; transcript_biotype ""protein_coding""; transcript_id ""YHR199C-A""; transcript_name ""NBL1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3027"";"	.	-
-YHR203C	chrVIII	505248	505289	"gene_biotype ""protein_coding""; gene_id ""YHR203C""; gene_name ""RPS4B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3387""; transcript_biotype ""protein_coding""; transcript_id ""YHR203C""; transcript_name ""RPS4B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4408"";"	.	-
-YIL156W-B	chrIX	47743	47760	"gene_biotype ""protein_coding""; gene_id ""YIL156W-B""; gene_name ""YIL156W-B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5122""; transcript_biotype ""protein_coding""; transcript_id ""YIL156W-B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2356"";"	.	+
-YIL148W	chrIX	69114	69149	"gene_biotype ""protein_coding""; gene_id ""YIL148W""; gene_name ""RPL40A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5164""; transcript_biotype ""protein_coding""; transcript_id ""YIL148W""; transcript_name ""RPL40A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS7063"";"	.	+
-YIL133C	chrIX	99096	99153	"gene_biotype ""protein_coding""; gene_id ""YIL133C""; gene_name ""RPL16A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2917""; transcript_biotype ""protein_coding""; transcript_id ""YIL133C""; transcript_name ""RPL16A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4529"";"	.	-
-YIL123W	chrIX	128119	128148	"gene_id ""SIM1"""	.	+
-YIL111W	chrIX	155279	155310	"gene_biotype ""protein_coding""; gene_id ""YIL111W""; gene_name ""COX5B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1588""; transcript_biotype ""protein_coding""; transcript_id ""YIL111W""; transcript_name ""COX5B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1393"";"	.	+
-YIL106W	chrIX	166487	166519	"gene_biotype ""protein_coding""; gene_id ""YIL106W""; gene_name ""MOB1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3229""; transcript_biotype ""protein_coding""; transcript_id ""YIL106W""; transcript_name ""MOB1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS771"";"	.	+
-YIL073C	chrIX	225810	225837	"gene_biotype ""protein_coding""; gene_id ""YIL073C""; gene_name ""SPO22""; gene_source ""ensembl""; gene_version ""1""; p_id ""P101""; transcript_biotype ""protein_coding""; transcript_id ""YIL073C""; transcript_name ""SPO22""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5064"";"	.	-
-YIL069C	chrIX	231958	232015	"gene_biotype ""protein_coding""; gene_id ""YIL069C""; gene_name ""RPS24B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4521""; transcript_biotype ""protein_coding""; transcript_id ""YIL069C""; transcript_name ""RPS24B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2716"";"	.	-
-YIL052C	chrIX	256555	256590	"gene_biotype ""protein_coding""; gene_id ""YIL052C""; gene_name ""RPL34B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6666""; transcript_biotype ""protein_coding""; transcript_id ""YIL052C""; transcript_name ""RPL34B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4323"";"	.	-
-YIL018W	chrIX	317138	317171	"gene_biotype ""protein_coding""; gene_id ""YIL018W""; gene_name ""RPL2B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1137""; transcript_biotype ""protein_coding""; transcript_id ""YIL018W""; transcript_name ""RPL2B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4190"";"	.	+
-YIL004C	chrIX	348364	348383	"gene_biotype ""protein_coding""; gene_id ""YIL004C""; gene_name ""BET1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1371""; transcript_biotype ""protein_coding""; transcript_id ""YIL004C""; transcript_name ""BET1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4048"";"	.	-
-YJL205C	chrX	50269	50351	"gene_biotype ""protein_coding""; gene_id ""YJL205C""; gene_name ""NCE101""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6640""; transcript_biotype ""protein_coding""; transcript_id ""YJL205C""; transcript_name ""NCE101""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1880"";"	.	-
-YJL191W	chrX	74179	74204	"gene_biotype ""protein_coding""; gene_id ""YJL191W""; gene_name ""RPS14B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6156""; transcript_biotype ""protein_coding""; transcript_id ""YJL191W""; transcript_name ""RPS14B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1667"";"	.	+
-YJL189W	chrX	76269	76324	"gene_biotype ""protein_coding""; gene_id ""YJL189W""; gene_name ""RPL39""; gene_source ""ensembl""; gene_version ""1""; p_id ""P325""; transcript_biotype ""protein_coding""; transcript_id ""YJL189W""; transcript_name ""RPL39""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2771"";"	.	+
-YJL177W	chrX	91377	91411	"gene_biotype ""protein_coding""; gene_id ""YJL177W""; gene_name ""RPL17B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1351""; transcript_biotype ""protein_coding""; transcript_id ""YJL177W""; transcript_name ""RPL17B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6070"";"	.	+
-YJL136C	chrX	156790	156816	"gene_id ""RPS21B"""	.	-
-YJL130C	chrX	172433	172454	"gene_id ""URA2"""	.	-
-YJL041W	chrX	365859	365902	"gene_biotype ""protein_coding""; gene_id ""YJL041W""; gene_name ""NSP1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1327""; transcript_biotype ""protein_coding""; transcript_id ""YJL041W""; transcript_name ""NSP1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6521"";"	.	+
-YJL031C	chrX	387349	387386	"gene_biotype ""protein_coding""; gene_id ""YJL031C""; gene_name ""BET4""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2995""; transcript_biotype ""protein_coding""; transcript_id ""YJL031C""; transcript_name ""BET4""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS443"";"	.	-
-YJL024C	chrX	396494	396518	"gene_biotype ""protein_coding""; gene_id ""YJL024C""; gene_name ""APS3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6507""; transcript_biotype ""protein_coding""; transcript_id ""YJL024C""; transcript_name ""APS3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4817"";"	.	-
-YJL001W	chrX	435309	435343	"gene_biotype ""protein_coding""; gene_id ""YJL001W""; gene_name ""PRE3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3871""; transcript_biotype ""protein_coding""; transcript_id ""YJL001W""; transcript_name ""PRE3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4544"";"	.	+
-YJR021C	chrX	469184	469198	"gene_biotype ""protein_coding""; gene_id ""YJR021C""; gene_name ""REC107""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1479""; transcript_biotype ""protein_coding""; transcript_id ""YJR021C""; transcript_name ""REC107""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3102"";"	.	-
-YJR079W	chrX	581010	581052	"gene_biotype ""protein_coding""; gene_id ""YJR079W""; gene_name ""YJR079W""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6278""; transcript_biotype ""protein_coding""; transcript_id ""YJR079W""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4730"";"	.	+
-YJR094W-A	chrX	608548	608581	"gene_biotype ""protein_coding""; gene_id ""YJR094W-A""; gene_name ""RPL43B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P482""; transcript_biotype ""protein_coding""; transcript_id ""YJR094W-A""; transcript_name ""RPL43B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3076"";"	.	+
-YJR112W-A	chrX	637898	637858	"gene_id ""YJR112W-A"""	.	+
-YJR145C	chrX	702799	702881	"gene_biotype ""protein_coding""; gene_id ""YJR145C""; gene_name ""RPS4A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4276""; transcript_biotype ""protein_coding""; transcript_id ""YJR145C""; transcript_name ""RPS4A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1513"";"	.	-
-YKL190W	chrXI	83056	83074	"gene_biotype ""protein_coding""; gene_id ""YKL190W""; gene_name ""CNB1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2838""; transcript_biotype ""protein_coding""; transcript_id ""YKL190W""; transcript_name ""CNB1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2714"";"	.	+
-YKL186C	chrXI	93312	93380	"gene_id ""MTR2"""	.	-
-YKL180W	chrXI	109860	109883	"gene_biotype ""protein_coding""; gene_id ""YKL180W""; gene_name ""RPL17A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5550""; transcript_biotype ""protein_coding""; transcript_id ""YKL180W""; transcript_name ""RPL17A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1112"";"	.	+
-YKL157W	chrXI	155599	155654	"gene_biotype ""protein_coding""; gene_id ""YKL157W""; gene_name ""APE2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2901""; transcript_biotype ""protein_coding""; transcript_id ""YKL157W""; transcript_name ""APE2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6611"";"	.	+
-YKL156W	chrXI	158933	158966	"gene_id ""RPS27A"""	.	+
-YKL150W	chrXI	166474	166487	"gene_id ""MCR1"""	.	+
-YKL081W	chrXI	283372	283421	"gene_biotype ""protein_coding""; gene_id ""YKL081W""; gene_name ""TEF4""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6633""; transcript_biotype ""protein_coding""; transcript_id ""YKL081W""; transcript_name ""TEF4""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5384"";"	.	+
-YKL006C-A	chrXI	430456	430520	"gene_biotype ""protein_coding""; gene_id ""YKL006C-A""; gene_name ""SFT1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4390""; transcript_biotype ""protein_coding""; transcript_id ""YKL006C-A""; transcript_name ""SFT1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1141"";"	.	-
-YKL006W	chrXI	432384	432432	"gene_biotype ""protein_coding""; gene_id ""YKL006W""; gene_name ""RPL14A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2546""; transcript_biotype ""protein_coding""; transcript_id ""YKL006W""; transcript_name ""RPL14A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2206"";"	.	+
-YKL002W	chrXI	437883	437905	"gene_biotype ""protein_coding""; gene_id ""YKL002W""; gene_name ""DID4""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1338""; transcript_biotype ""protein_coding""; transcript_id ""YKL002W""; transcript_name ""DID4""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6668"";"	.	+
-YKR004C	chrXI	447707	447733	"gene_biotype ""protein_coding""; gene_id ""YKR004C""; gene_name ""ECM9""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4363""; transcript_biotype ""protein_coding""; transcript_id ""YKR004C""; transcript_name ""ECM9""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1839"";"	.	-
-YKR005C	chrXI	449952	449970	"gene_biotype ""protein_coding""; gene_id ""YKR005C""; gene_name ""YKR005C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1524""; transcript_biotype ""protein_coding""; transcript_id ""YKR005C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2691"";"	.	-
-YKR057W	chrXI	551981	552002	"gene_biotype ""protein_coding""; gene_id ""YKR057W""; gene_name ""RPS21A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5443""; transcript_biotype ""protein_coding""; transcript_id ""YKR057W""; transcript_name ""RPS21A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5896"";"	.	+
-YKR094C	chrXI	618375	618454	"gene_biotype ""protein_coding""; gene_id ""YKR094C""; gene_name ""RPL40B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2903""; transcript_biotype ""protein_coding""; transcript_id ""YKR094C""; transcript_name ""RPL40B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4351"";"	.	-
-YKR095W-A	chrXI	625952	625976	"gene_biotype ""protein_coding""; gene_id ""YKR095W-A""; gene_name ""PCC1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P474""; transcript_biotype ""protein_coding""; transcript_id ""YKR095W-A""; transcript_name ""PCC1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4437"";"	.	+
-YLL050C	chrXII	40222	40354	"gene_biotype ""protein_coding""; gene_id ""YLL050C""; gene_name ""COF1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4345""; transcript_biotype ""protein_coding""; transcript_id ""YLL050C""; transcript_name ""COF1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4653"";"	.	-
-YLR048W	chrXII	242651	242680	"gene_biotype ""protein_coding""; gene_id ""YLR048W""; gene_name ""RPS0B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2080""; transcript_biotype ""protein_coding""; transcript_id ""YLR048W""; transcript_name ""RPS0B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS117"";"	.	+
-YLR054C	chrXII	250861	250898	"gene_biotype ""protein_coding""; gene_id ""YLR054C""; gene_name ""OSW2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3477""; transcript_biotype ""protein_coding""; transcript_id ""YLR054C""; transcript_name ""OSW2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4159"";"	.	-
-YLR061W	chrXII	263539	263594	"gene_biotype ""protein_coding""; gene_id ""YLR061W""; gene_name ""RPL22A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2416""; transcript_biotype ""protein_coding""; transcript_id ""YLR061W""; transcript_name ""RPL22A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1972"";"	.	+
-YLR078C	chrXII	286468	286497	"gene_biotype ""protein_coding""; gene_id ""YLR078C""; gene_name ""BOS1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P592""; transcript_biotype ""protein_coding""; transcript_id ""YLR078C""; transcript_name ""BOS1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS66"";"	.	-
-YLR093C	chrXII	327259	327294	"gene_biotype ""protein_coding""; gene_id ""YLR093C""; gene_name ""NYV1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4381""; transcript_biotype ""protein_coding""; transcript_id ""YLR093C""; transcript_name ""NYV1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1626"";"	.	-
-YLR128W	chrXII	398582	398626	"gene_biotype ""protein_coding""; gene_id ""YLR128W""; gene_name ""DCN1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P489""; transcript_biotype ""protein_coding""; transcript_id ""YLR128W""; transcript_name ""DCN1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS883"";"	.	+
-YLR185W	chrXII	522982	523028	"gene_biotype ""protein_coding""; gene_id ""YLR185W""; gene_name ""RPL37A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6285""; transcript_biotype ""protein_coding""; transcript_id ""YLR185W""; transcript_name ""RPL37A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2451"";"	.	+
-YLR199C	chrXII	548678	548704	"gene_biotype ""protein_coding""; gene_id ""YLR199C""; gene_name ""PBA1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5913""; transcript_biotype ""protein_coding""; transcript_id ""YLR199C""; transcript_name ""PBA1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5233"";"	.	-
-YLR211C	chrXII	564455	564465	"gene_biotype ""protein_coding""; gene_id ""YLR211C""; gene_name ""ATG38""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4977""; transcript_biotype ""protein_coding""; transcript_id ""YLR211C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3993"";"	.	-
-YLR275W	chrXII	694442	694472	"gene_biotype ""protein_coding""; gene_id ""YLR275W""; gene_name ""SMD2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4556""; transcript_biotype ""protein_coding""; transcript_id ""YLR275W""; transcript_name ""SMD2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS88"";"	.	+
-YLR287C-A	chrXII	712726	712765	"gene_biotype ""protein_coding""; gene_id ""YLR287C-A""; gene_name ""RPS30A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3385""; transcript_biotype ""protein_coding""; transcript_id ""YLR287C-A""; transcript_name ""RPS30A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6173"";"	.	-
-YLR306W	chrXII	744217	744287	"gene_biotype ""protein_coding""; gene_id ""YLR306W""; gene_name ""UBC12""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2481""; transcript_biotype ""protein_coding""; transcript_id ""YLR306W""; transcript_name ""UBC12""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS116"";"	.	+
-YLR316C-2	chrXII	766074	766086	"gene_biotype ""protein_coding""; gene_id ""YLR316C-2""; gene_name ""TAD3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2624""; transcript_biotype ""protein_coding""; transcript_id ""YLR316C""; transcript_name ""TAD3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4137"";"	.	-
-YLR316C-1	chrXII	766182	766205	"gene_biotype ""protein_coding""; gene_id ""YLR316C-1""; gene_name ""TAD3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2624""; transcript_biotype ""protein_coding""; transcript_id ""YLR316C""; transcript_name ""TAD3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4137"";"	.	-
-YLR329W	chrXII	786667	786712	"gene_biotype ""protein_coding""; gene_id ""YLR329W""; gene_name ""REC102""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4284""; transcript_biotype ""protein_coding""; transcript_id ""YLR329W""; transcript_name ""REC102""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5463"";"	.	+
-YLR333C	chrXII	795913	795943	"gene_id ""RPS25B"""	.	-
-YLR344W	chrXII	819757	819777	"gene_biotype ""protein_coding""; gene_id ""YLR344W""; gene_name ""RPL26A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P301""; transcript_biotype ""protein_coding""; transcript_id ""YLR344W""; transcript_name ""RPL26A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6893"";"	.	+
-YLR367W-1	chrXII	856412	856434	"gene_id ""RPS22B"""	.	+
-YLR367W-2	chrXII	857039	857057	"gene_id ""RPS22B"""	.	+
-YLR388W	chrXII	898624	898645	"gene_id ""RPS29A"""	.	+
-YLR406C	chrXII	931350	931380	"gene_biotype ""protein_coding""; gene_id ""YLR406C""; gene_name ""RPL31B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6095""; transcript_biotype ""protein_coding""; transcript_id ""YLR406C""; transcript_name ""RPL31B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3340"";"	.	-
-YLR426W	chrXII	987194	987212	"gene_biotype ""protein_coding""; gene_id ""YLR426W""; gene_name ""TDA5""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3089""; transcript_biotype ""protein_coding""; transcript_id ""YLR426W""; transcript_name ""TDA5""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS470"";"	.	+
-YLR445W	chrXII	1024634	1024654	"gene_id ""GMC2"""	.	+
-YLR448W	chrXII	1029214	1029252	"gene_biotype ""protein_coding""; gene_id ""YLR448W""; gene_name ""RPL6B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P729""; transcript_biotype ""protein_coding""; transcript_id ""YLR448W""; transcript_name ""RPL6B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3249"";"	.	+
-YLR464W	chrXII	1067274	1067363	"gene_id ""YLR464W"""	.	+
-YML124C	chrXIII	23361	23500	"gene_biotype ""protein_coding""; gene_id ""YML124C""; gene_name ""TUB3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3954""; transcript_biotype ""protein_coding""; transcript_id ""YML124C""; transcript_name ""TUB3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2950"";"	.	-
-YML094W	chrXIII	82343	82373	"gene_biotype ""protein_coding""; gene_id ""YML094W""; gene_name ""GIM5""; gene_source ""ensembl""; gene_version ""1""; p_id ""P147""; transcript_biotype ""protein_coding""; transcript_id ""YML094W""; transcript_name ""GIM5""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1861"";"	.	+
-YML085C	chrXIII	99260	99301	"gene_biotype ""protein_coding""; gene_id ""YML085C""; gene_name ""TUB1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P792""; transcript_biotype ""protein_coding""; transcript_id ""YML085C""; transcript_name ""TUB1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4259"";"	.	-
-YML073C	chrXIII	123743	123777	"gene_biotype ""protein_coding""; gene_id ""YML073C""; gene_name ""RPL6A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6123""; transcript_biotype ""protein_coding""; transcript_id ""YML073C""; transcript_name ""RPL6A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2191"";"	.	-
-YML067C	chrXIII	140091	140113	"gene_biotype ""protein_coding""; gene_id ""YML067C""; gene_name ""ERV41""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4221""; transcript_biotype ""protein_coding""; transcript_id ""YML067C""; transcript_name ""ERV41""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2470"";"	.	-
-YML056C	chrXIII	163309	163422	"gene_biotype ""protein_coding""; gene_id ""YML056C""; gene_name ""IMD4""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4368""; transcript_biotype ""protein_coding""; transcript_id ""YML056C""; transcript_name ""IMD4""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS219"";"	.	-
-YML036W	chrXIII	206162	206203	"gene_biotype ""protein_coding""; gene_id ""YML036W""; gene_name ""CGI121""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5258""; transcript_biotype ""protein_coding""; transcript_id ""YML036W""; transcript_name ""CGI121""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4751"";"	.	+
-YML034W	chrXIII	211547	211570	"gene_biotype ""protein_coding""; gene_id ""YML034W""; gene_name ""SRC1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4025""; transcript_biotype ""protein_coding""; transcript_id ""YML034W""; transcript_name ""SRC1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1598"";"	.	+
-YML026C	chrXIII	223381	223421	"gene_biotype ""protein_coding""; gene_id ""YML026C""; gene_name ""RPS18B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2905""; transcript_biotype ""protein_coding""; transcript_id ""YML026C""; transcript_name ""RPS18B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1330"";"	.	-
-YML025C	chrXIII	225240	225264	"gene_biotype ""protein_coding""; gene_id ""YML025C""; gene_name ""YML6""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1929""; transcript_biotype ""protein_coding""; transcript_id ""YML025C""; transcript_name ""YML6""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6764"";"	.	-
-YML024W	chrXIII	226231	226289	"gene_biotype ""protein_coding""; gene_id ""YML024W""; gene_name ""RPS17A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2712""; transcript_biotype ""protein_coding""; transcript_id ""YML024W""; transcript_name ""RPS17A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4134"";"	.	+
-YML017W	chrXIII	236788	236953	"gene_biotype ""protein_coding""; gene_id ""YML017W""; gene_name ""PSP2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4500""; transcript_biotype ""protein_coding""; transcript_id ""YML017W""; transcript_name ""PSP2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2475"";"	.	+
-YMR033W	chrXIII	337887	337903	"gene_biotype ""protein_coding""; gene_id ""YMR033W""; gene_name ""ARP9""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4296""; transcript_biotype ""protein_coding""; transcript_id ""YMR033W""; transcript_name ""ARP9""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5242"";"	.	+
-YMR079W	chrXIII	425114	425153	"gene_biotype ""protein_coding""; gene_id ""YMR079W""; gene_name ""SEC14""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4056""; transcript_biotype ""protein_coding""; transcript_id ""YMR079W""; transcript_name ""SEC14""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS973"";"	.	+
-YMR116C	chrXIII	499879	499899	"gene_biotype ""protein_coding""; gene_id ""YMR116C""; gene_name ""ASC1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2501""; transcript_biotype ""protein_coding""; transcript_id ""YMR116C""; transcript_name ""ASC1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS954"";"	.	-
-YMR125W	chrXIII	517843	517885	"gene_id ""STO1"""	.	+
-YMR133W	chrXIII	537528	537564	"gene_biotype ""protein_coding""; gene_id ""YMR133W""; gene_name ""REC114""; gene_source ""ensembl""; gene_version ""1""; p_id ""P758""; transcript_biotype ""protein_coding""; transcript_id ""YMR133W""; transcript_name ""REC114""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4212"";"	.	+
-YMR142C	chrXIII	550802	550823	"gene_biotype ""protein_coding""; gene_id ""YMR142C""; gene_name ""RPL13B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P999""; transcript_biotype ""protein_coding""; transcript_id ""YMR142C""; transcript_name ""RPL13B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1794"";"	.	-
-YMR143W	chrXIII	552456	552495	"gene_biotype ""protein_coding""; gene_id ""YMR143W""; gene_name ""RPS16A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5098""; transcript_biotype ""protein_coding""; transcript_id ""YMR143W""; transcript_name ""RPS16A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1489"";"	.	+
-YMR194W	chrXIII	651594	651623	"gene_biotype ""protein_coding""; gene_id ""YMR194W""; gene_name ""RPL36A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5360""; transcript_biotype ""protein_coding""; transcript_id ""YMR194W""; transcript_name ""RPL36A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2676"";"	.	+
-YMR194C-B	chrXIII	652776	652798	"gene_biotype ""protein_coding""; gene_id ""YMR194C-B""; gene_name ""CMC4""; gene_source ""ensembl""; gene_version ""1""; p_id ""P618""; transcript_biotype ""protein_coding""; transcript_id ""YMR194C-B""; transcript_name ""CMC4""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS213"";"	.	-
-YMR201C	chrXIII	666934	666962	"gene_biotype ""protein_coding""; gene_id ""YMR201C""; gene_name ""RAD14""; gene_source ""ensembl""; gene_version ""1""; p_id ""P775""; transcript_biotype ""protein_coding""; transcript_id ""YMR201C""; transcript_name ""RAD14""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3230"";"	.	-
-YMR225C	chrXIII	721199	721232	"gene_biotype ""protein_coding""; gene_id ""YMR225C""; gene_name ""MRPL44""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4922""; transcript_biotype ""protein_coding""; transcript_id ""YMR225C""; transcript_name ""MRPL44""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6694"";"	.	-
-YMR230W	chrXIII	732836	732875	"gene_biotype ""protein_coding""; gene_id ""YMR230W""; gene_name ""RPS10B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4028""; transcript_biotype ""protein_coding""; transcript_id ""YMR230W""; transcript_name ""RPS10B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1032"";"	.	+
-YMR242C	chrXIII	753743	753789	"gene_biotype ""protein_coding""; gene_id ""YMR242C""; gene_name ""RPL20A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1111""; transcript_biotype ""protein_coding""; transcript_id ""YMR242C""; transcript_name ""RPL20A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4381"";"	.	-
-YMR292W	chrXIII	854880	854898	"gene_biotype ""protein_coding""; gene_id ""YMR292W""; gene_name ""GOT1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3577""; transcript_biotype ""protein_coding""; transcript_id ""YMR292W""; transcript_name ""GOT1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2874"";"	.	+
-YNL312W	chrXIV	48378	48401	"gene_biotype ""protein_coding""; gene_id ""YNL312W""; gene_name ""RFA2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1627""; transcript_biotype ""protein_coding""; transcript_id ""YNL312W""; transcript_name ""RFA2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3711"";"	.	+
-YNL302C	chrXIV	62373	62407	"gene_biotype ""protein_coding""; gene_id ""YNL302C""; gene_name ""RPS19B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2239""; transcript_biotype ""protein_coding""; transcript_id ""YNL302C""; transcript_name ""RPS19B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3038"";"	.	-
-YNL301C	chrXIV	64019	64059	"gene_biotype ""protein_coding""; gene_id ""YNL301C""; gene_name ""RPL18B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P167""; transcript_biotype ""protein_coding""; transcript_id ""YNL301C""; transcript_name ""RPL18B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2346"";"	.	-
-YNL265C	chrXIV	145150	145190	"gene_biotype ""protein_coding""; gene_id ""YNL265C""; gene_name ""IST1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1215""; transcript_biotype ""protein_coding""; transcript_id ""YNL265C""; transcript_name ""IST1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1220"";"	.	-
-YNL246W	chrXIV	185552	185586	"gene_biotype ""protein_coding""; gene_id ""YNL246W""; gene_name ""VPS75""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2721""; transcript_biotype ""protein_coding""; transcript_id ""YNL246W""; transcript_name ""VPS75""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS317"";"	.	+
-YNL162W	chrXIV	331801	331837	"gene_biotype ""protein_coding""; gene_id ""YNL162W""; gene_name ""RPL42A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5052""; transcript_biotype ""protein_coding""; transcript_id ""YNL162W""; transcript_name ""RPL42A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5021"";"	.	+
-YNL147W	chrXIV	351019	351053	"gene_biotype ""protein_coding""; gene_id ""YNL147W""; gene_name ""LSM7""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4805""; transcript_biotype ""protein_coding""; transcript_id ""YNL147W""; transcript_name ""LSM7""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2987"";"	.	+
-YNL138W-A	chrXIV	366094	366157	"gene_biotype ""protein_coding""; gene_id ""YNL138W-A""; gene_name ""YSF3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P735""; transcript_biotype ""protein_coding""; transcript_id ""YNL138W-A""; transcript_name ""YSF3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6307"";"	.	+
-YNL130C	chrXIV	380690	380724	"gene_biotype ""protein_coding""; gene_id ""YNL130C""; gene_name ""CPT1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3235""; transcript_biotype ""protein_coding""; transcript_id ""YNL130C""; transcript_name ""CPT1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS23"";"	.	-
-YNL112W	chrXIV	415870	415913	"gene_biotype ""protein_coding""; gene_id ""YNL112W""; gene_name ""DBP2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5154""; transcript_biotype ""protein_coding""; transcript_id ""YNL112W""; transcript_name ""DBP2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS363"";"	.	+
-YNL096C	chrXIV	443827	443862	"gene_biotype ""protein_coding""; gene_id ""YNL096C""; gene_name ""RPS7B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P268""; transcript_biotype ""protein_coding""; transcript_id ""YNL096C""; transcript_name ""RPS7B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1201"";"	.	-
-YNL069C	chrXIV	494525	494550	"gene_biotype ""protein_coding""; gene_id ""YNL069C""; gene_name ""RPL16B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5799""; transcript_biotype ""protein_coding""; transcript_id ""YNL069C""; transcript_name ""RPL16B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1881"";"	.	-
-YNL066W	chrXIV	501481	501502	"gene_id ""SUN4"""	.	+
-YNL050C	chrXIV	534875	534914	"gene_biotype ""protein_coding""; gene_id ""YNL050C""; gene_name ""YNL050C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3169""; transcript_biotype ""protein_coding""; transcript_id ""YNL050C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4800"";"	.	-
-YNL044W	chrXIV	545340	545370	"gene_biotype ""protein_coding""; gene_id ""YNL044W""; gene_name ""YIP3""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2718""; transcript_biotype ""protein_coding""; transcript_id ""YNL044W""; transcript_name ""YIP3""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2963"";"	.	+
-YNL038W	chrXIV	557671	557684	"gene_biotype ""protein_coding""; gene_id ""YNL038W""; gene_name ""GPI15""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2378""; transcript_biotype ""protein_coding""; transcript_id ""YNL038W""; transcript_name ""GPI15""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6544"";"	.	+
-YNL012W	chrXIV	609836	609874	"gene_biotype ""protein_coding""; gene_id ""YNL012W""; gene_name ""SPO1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2587""; transcript_biotype ""protein_coding""; transcript_id ""YNL012W""; transcript_name ""SPO1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4434"";"	.	+
-YNL004W	chrXIV	623268	623286	"gene_id ""HRB1"""	.	+
-YNR053C	chrXIV	721771	721809	"gene_biotype ""protein_coding""; gene_id ""YNR053C""; gene_name ""NOG2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2886""; transcript_biotype ""protein_coding""; transcript_id ""YNR053C""; transcript_name ""NOG2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS584"";"	.	-
-YOL127W	chrXV	80733	80774	"gene_biotype ""protein_coding""; gene_id ""YOL127W""; gene_name ""RPL25""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4325""; transcript_biotype ""protein_coding""; transcript_id ""YOL127W""; transcript_name ""RPL25""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4226"";"	.	+
-YOL121C	chrXV	92441	92476	"gene_biotype ""protein_coding""; gene_id ""YOL121C""; gene_name ""RPS19A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2066""; transcript_biotype ""protein_coding""; transcript_id ""YOL121C""; transcript_name ""RPS19A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3657"";"	.	-
-YOL120C	chrXV	93844	93868	"gene_biotype ""protein_coding""; gene_id ""YOL120C""; gene_name ""RPL18A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1453""; transcript_biotype ""protein_coding""; transcript_id ""YOL120C""; transcript_name ""RPL18A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6217"";"	.	-
-YOL048C	chrXV	240948	240977	"gene_biotype ""protein_coding""; gene_id ""YOL048C""; gene_name ""RRT8""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5364""; transcript_biotype ""protein_coding""; transcript_id ""YOL048C""; transcript_name ""RRT8""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2190"";"	.	-
-YOL047C	chrXV	242442	242454	"gene_biotype ""protein_coding""; gene_id ""YOL047C""; gene_name ""LDS2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P554""; transcript_biotype ""protein_coding""; transcript_id ""YOL047C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5565"";"	.	-
-YOR096W	chrXV	506306	506338	"gene_biotype ""protein_coding""; gene_id ""YOR096W""; gene_name ""RPS7A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6667""; transcript_biotype ""protein_coding""; transcript_id ""YOR096W""; transcript_name ""RPS7A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5958"";"	.	+
-YOR122C	chrXV	552666	552738	"gene_biotype ""protein_coding""; gene_id ""YOR122C""; gene_name ""PFY1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1857""; transcript_biotype ""protein_coding""; transcript_id ""YOR122C""; transcript_name ""PFY1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6549"";"	.	-
-YOR182C	chrXV	678380	678420	"gene_biotype ""protein_coding""; gene_id ""YOR182C""; gene_name ""RPS30B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4566""; transcript_biotype ""protein_coding""; transcript_id ""YOR182C""; transcript_name ""RPS30B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3244"";"	.	-
-YOR234C	chrXV	778860	778909	"gene_biotype ""protein_coding""; gene_id ""YOR234C""; gene_name ""RPL33B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2498""; transcript_biotype ""protein_coding""; transcript_id ""YOR234C""; transcript_name ""RPL33B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6315"";"	.	-
-snR17a	chrXV	780265	780277	"gene_id ""snR17a"""	.	+
-YOR293W	chrXV	867517	867586	"gene_biotype ""protein_coding""; gene_id ""YOR293W""; gene_name ""RPS10A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6543""; transcript_biotype ""protein_coding""; transcript_id ""YOR293W""; transcript_name ""RPS10A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4779"";"	.	+
-YOR312C	chrXV	900768	900805	"gene_biotype ""protein_coding""; gene_id ""YOR312C""; gene_name ""RPL20B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4925""; transcript_biotype ""protein_coding""; transcript_id ""YOR312C""; transcript_name ""RPL20B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1961"";"	.	-
-YOR318C	chrXV	912086	912204	"gene_biotype ""protein_coding""; gene_id ""YOR318C""; gene_name ""YOR318C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5248""; transcript_biotype ""protein_coding""; transcript_id ""YOR318C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4727"";"	.	-
-YPL249C-A	chrXVI	75986	76014	"gene_biotype ""protein_coding""; gene_id ""YPL249C-A""; gene_name ""RPL36B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1963""; transcript_biotype ""protein_coding""; transcript_id ""YPL249C-A""; transcript_name ""RPL36B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS606"";"	.	-
-YPL241C	chrXVI	96154	96189	"gene_biotype ""protein_coding""; gene_id ""YPL241C""; gene_name ""CIN2""; gene_source ""ensembl""; gene_version ""1""; p_id ""P505""; transcript_biotype ""protein_coding""; transcript_id ""YPL241C""; transcript_name ""CIN2""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2124"";"	.	-
-YPL230W	chrXVI	115270	115293	"gene_id ""USV1"""	.	+
-YPL218W	chrXVI	138846	138864	"gene_biotype ""protein_coding""; gene_id ""YPL218W""; gene_name ""SAR1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5810""; transcript_biotype ""protein_coding""; transcript_id ""YPL218W""; transcript_name ""SAR1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS601"";"	.	+
-YPL198W-1	chrXVI	173549	173571	"gene_id ""RPL7B"""	.	+
-YPL198W-2	chrXVI	174037	174072	"gene_id ""RPL7B"""	.	+
-YPL175W	chrXVI	218712	218746	"gene_biotype ""protein_coding""; gene_id ""YPL175W""; gene_name ""SPT14""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4700""; transcript_biotype ""protein_coding""; transcript_id ""YPL175W""; transcript_name ""SPT14""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4283"";"	.	+
-snR17b	chrXVI	281374	281386	"gene_id ""snR17b"""	.	-
-YPL143W	chrXVI	282627	282665	"gene_biotype ""protein_coding""; gene_id ""YPL143W""; gene_name ""RPL33A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2885""; transcript_biotype ""protein_coding""; transcript_id ""YPL143W""; transcript_name ""RPL33A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5551"";"	.	+
-YPL129W	chrXVI	305375	305411	"gene_biotype ""protein_coding""; gene_id ""YPL129W""; gene_name ""TAF14""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1180""; transcript_biotype ""protein_coding""; transcript_id ""YPL129W""; transcript_name ""TAF14""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS724"";"	.	+
-YPL109C	chrXVI	345445	345484	"gene_biotype ""protein_coding""; gene_id ""YPL109C""; gene_name ""YPL109C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3836""; transcript_biotype ""protein_coding""; transcript_id ""YPL109C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4488"";"	.	-
-YPL090C	chrXVI	377996	378033	"gene_biotype ""protein_coding""; gene_id ""YPL090C""; gene_name ""RPS6A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5590""; transcript_biotype ""protein_coding""; transcript_id ""YPL090C""; transcript_name ""RPS6A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS578"";"	.	-
-YPL081W	chrXVI	405429	405457	"gene_biotype ""protein_coding""; gene_id ""YPL081W""; gene_name ""RPS9A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P6684""; transcript_biotype ""protein_coding""; transcript_id ""YPL081W""; transcript_name ""RPS9A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS6512"";"	.	+
-YPL079W	chrXVI	407005	407067	"gene_biotype ""protein_coding""; gene_id ""YPL079W""; gene_name ""RPL21B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1416""; transcript_biotype ""protein_coding""; transcript_id ""YPL079W""; transcript_name ""RPL21B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2785"";"	.	+
-YPL075W	chrXVI	412961	413012	"gene_biotype ""protein_coding""; gene_id ""YPL075W""; gene_name ""GCR1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P1975""; transcript_biotype ""protein_coding""; transcript_id ""YPL075W""; transcript_name ""GCR1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1903"";"	.	+
-YPL031C	chrXVI	492919	492960	"gene_biotype ""protein_coding""; gene_id ""YPL031C""; gene_name ""PHO85""; gene_source ""ensembl""; gene_version ""1""; p_id ""P495""; transcript_biotype ""protein_coding""; transcript_id ""YPL031C""; transcript_name ""PHO85""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3017"";"	.	-
-YPR010C-A	chrXVI	582559	582570	"gene_biotype ""protein_coding""; gene_id ""YPR010C-A""; gene_name ""YPR010C-A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P669""; transcript_biotype ""protein_coding""; transcript_id ""YPR010C-A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2182"";"	.	-
-YPR028W	chrXVI	623665	623710	"gene_biotype ""protein_coding""; gene_id ""YPR028W""; gene_name ""YOP1""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3040""; transcript_biotype ""protein_coding""; transcript_id ""YPR028W""; transcript_name ""YOP1""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS1103"";"	.	+
-YPR043W	chrXVI	654537	654570	"gene_biotype ""protein_coding""; gene_id ""YPR043W""; gene_name ""RPL43A""; gene_source ""ensembl""; gene_version ""1""; p_id ""P2417""; transcript_biotype ""protein_coding""; transcript_id ""YPR043W""; transcript_name ""RPL43A""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3753"";"	.	+
-YPR063C	chrXVI	678194	678222	"gene_biotype ""protein_coding""; gene_id ""YPR063C""; gene_name ""YPR063C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P3348""; transcript_biotype ""protein_coding""; transcript_id ""YPR063C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS5436"";"	.	-
-YPR098C	chrXVI	729386	729416	"gene_biotype ""protein_coding""; gene_id ""YPR098C""; gene_name ""YPR098C""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4198""; transcript_biotype ""protein_coding""; transcript_id ""YPR098C""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS2629"";"	.	-
-YPR132W	chrXVI	795334	795394	"gene_biotype ""protein_coding""; gene_id ""YPR132W""; gene_name ""RPS23B""; gene_source ""ensembl""; gene_version ""1""; p_id ""P4657""; transcript_biotype ""protein_coding""; transcript_id ""YPR132W""; transcript_name ""RPS23B""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS4774"";"	.	+
-YPR153W	chrXVI	833783	833827	"gene_biotype ""protein_coding""; gene_id ""YPR153W""; gene_name ""YPR153W""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5530""; transcript_biotype ""protein_coding""; transcript_id ""YPR153W""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3477"";"	.	+
-YPR170W-B	chrXVI	883457	883486	"gene_id ""YPR170W-B"""	.	+
-YPR187W	chrXVI	911332	911352	"gene_biotype ""protein_coding""; gene_id ""YPR187W""; gene_name ""RPO26""; gene_source ""ensembl""; gene_version ""1""; p_id ""P5714""; transcript_biotype ""protein_coding""; transcript_id ""YPR187W""; transcript_name ""RPO26""; transcript_source ""ensembl""; transcript_version ""1""; tss_id ""TSS3047"";"	.	+
+chrI	87437	87500	YAL030W	.	+
+chrI	142584	142619	YAL003W	.	+
+chrI	151006	151020	YAL001C	.	-
+chrII	45938	45977	YBL092W	.	+
+chrII	47058	47074	YBL091C-A	.	-
+chrII	60193	60238	YBL087C	.	-
+chrII	89132	89160	YBL072C	.	-
+chrII	110420	110449	YBL059C-A	.	-
+chrII	110929	110948	YBL059W	.	+
+chrII	125230	125270	YBL050W	.	+
+chrII	142749	142784	YBL040C	.	-
+chrII	168766	168808	YBL027W	.	+
+chrII	170767	170804	YBL026W	.	+
+chrII	186352	186372	YBL018C	.	-
+chrII	333366	333386	YBR048W	.	+
+chrII	366502	366536	YBR062C	.	-
+chrII	393485	393510	YBR078W	.	+
+chrII	407027	407053	YBR082C	.	-
+chrII	414753	414768	YBR084C-A	.	-
+chrII	426516	426530	YBR089C-A	.	-
+chrII	426516	426531	YBR090C	.	-
+chrII	462260	462289	YBR111W-A-1	.	+
+chrII	462477	462499	YBR111W-A-2	.	+
+chrII	479394	479434	YBR119W	.	+
+chrII	592416	592439	YBR181C	.	-
+chrII	602179	602216	YBR186W	.	+
+chrII	604895	604927	YBR189W	.	+
+chrII	606619	606668	YBR191W	.	+
+chrII	653433	653452	YBR215W	.	+
+chrII	679942	679978	YBR230C	.	-
+chrII	726917	726952	YBR255C-A	.	-
+chrIII	101633	101646	YCL012C	.	-
+chrIII	107088	107110	YCL005W-A-1	.	+
+chrIII	107254	107287	YCL005W-A-2	.	+
+chrIII	111557	111589	YCL002C	.	-
+chrIII	173115	173141	YCR028C-A	.	-
+chrIII	177906	177956	YCR031C	.	-
+chrIII	293981	293993	YCR097W-1	.	+
+chrIII	294279	294291	YCR097W-2	.	+
+chrIV	65356	65377	YDL219W	.	+
+chrIV	118108	118157	YDL191W	.	+
+chrIV	122158	122176	YDL189W	.	+
+chrIV	216471	216489	YDL137W	.	+
+chrIV	217969	218007	YDL136W	.	+
+chrIV	230261	230320	YDL130W	.	+
+chrIV	239398	239421	YDL125C	.	-
+chrIV	254974	254999	YDL115C	.	-
+chrIV	267779	267806	YDL108W	.	+
+chrIV	307333	307375	YDL083C	.	-
+chrIV	308752	308792	YDL082W	.	+
+chrIV	314044	314056	YDL079C	.	-
+chrIV	322673	322703	YDL075W	.	+
+chrIV	337595	337634	YDL064W	.	+
+chrIV	340810	340849	YDL061C	.	-
+chrIV	399469	399484	YDL029W	.	+
+chrIV	431386	431425	YDL012C	.	-
+chrIV	458017	458050	YDR005C	.	-
+chrIV	491874	491898	YDR025W	.	+
+chrIV	569633	569666	YDR059C	.	-
+chrIV	579963	580017	YDR064W	.	+
+chrIV	630017	630173	YDR092W	.	+
+chrIV	653425	653523	YDR099W	.	+
+chrIV	715247	715267	YDR129C	.	-
+chrIV	733702	733715	YDR139C	.	-
+chrIV	1073312	1073349	YDR305C	.	-
+chrIV	1103872	1103892	YDR318W	.	+
+chrIV	1212947	1212978	YDR367W	.	+
+chrIV	1237587	1237608	YDR381W	.	+
+chrIV	1238630	1238776	YDR381C-A	.	-
+chrIV	1266769	1266797	YDR397C	.	-
+chrIV	1319617	1319634	YDR424C-2	.	-
+chrIV	1319720	1319758	YDR424C-1	.	-
+chrIV	1355236	1355274	YDR447C	.	-
+chrIV	1360358	1360404	YDR450W	.	+
+chrIV	1402162	1402184	YDR471W	.	+
+chrIV	1450457	1450492	YDR500C	.	-
+chrV	4322	4414	YEL076C-A	.	-
+chrV	131852	131899	YEL012W	.	+
+chrV	148254	148282	YEL003W	.	+
+chrV	158994	159014	YER003C	.	-
+chrV	166771	166787	YER007C-A	.	-
+chrV	239623	239668	YER044C-A	.	-
+chrV	269751	269805	YER056C-A	.	-
+chrV	306748	306791	YER074W	.	+
+chrV	307804	307848	YER074W-A-1	.	+
+chrV	308043	308067	YER074W-A-2	.	+
+chrV	348201	348221	YER093C-A	.	-
+chrV	363068	363092	YER102W	.	+
+chrV	397228	397281	YER117W	.	+
+chrV	423917	423951	YER131W	.	+
+chrV	433165	433196	YER133W	.	+
+chrV	548615	548644	YER179W	.	+
+chrVI	54377	54421	YFL039C	.	-
+chrVI	63859	63916	YFL034C-B	.	-
+chrVI	64599	64616	YFL034C-A	.	-
+chrVI	203292	203316	YFR024C-A	.	-
+chrVI	221267	221303	YFR031C-A	.	-
+chrVI	223440	223490	YFR032C-A	.	-
+chrVI	242056	242081	YFR045W	.	+
+chrVII	31426	31510	YGL251C	.	-
+chrVII	62172	62189	YGL232W	.	+
+chrVII	72988	73035	YGL226C-A	.	-
+chrVII	148598	148654	YGL189C	.	-
+chrVII	150183	150226	YGL187C	.	-
+chrVII	157199	157239	YGL183C	.	-
+chrVII	167969	167994	YGL178W	.	+
+chrVII	250014	250086	YGL137W	.	+
+chrVII	311482	311526	YGL103W	.	+
+chrVII	346808	346851	YGL087C	.	-
+chrVII	364964	365003	YGL076C-2	.	-
+chrVII	365526	365558	YGL076C-1	.	-
+chrVII	435722	435749	YGL033W-1	.	+
+chrVII	436359	436374	YGL033W-2	.	+
+chrVII	437941	437986	YGL031C	.	-
+chrVII	439282	439323	YGL030W	.	+
+chrVII	497365	497390	YGR001C-2	.	-
+chrVII	497937	497953	YGR001C-1	.	-
+chrVII	534473	534506	YGR027C	.	-
+chrVII	543703	543721	YGR029W	.	+
+chrVII	556277	556307	YGR034W	.	+
+chrVII	727334	727357	YGR118W	.	+
+chrVII	787786	787852	YGR148C	.	-
+chrVII	859260	859282	YGR183C	.	-
+chrVII	921092	921119	YGR214W	.	+
+chrVII	946403	946420	YGR225W	.	+
+chrVII	1085004	1085030	YGR296W	.	+
+chrVIII	104755	104803	YHL001W	.	+
+chrVIII	107879	107894	YHR001W-A	.	+
+chrVIII	127081	127112	YHR010W	.	+
+chrVIII	129616	129647	YHR012W	.	+
+chrVIII	138240	138281	YHR016C	.	-
+chrVIII	148116	148172	YHR021C	.	-
+chrVIII	187514	187620	YHR039C-A	.	-
+chrVIII	189749	189785	YHR041C	.	-
+chrVIII	251230	251248	YHR076W	.	+
+chrVIII	255637	255687	YHR077C	.	-
+chrVIII	262354	262370	YHR079C-A	.	-
+chrVIII	298360	298415	YHR097C	.	-
+chrVIII	315771	315807	YHR101C	.	-
+chrVIII	354922	354955	YHR123W	.	+
+chrVIII	382306	382353	YHR141C	.	-
+chrVIII	498719	498731	YHR199C-A	.	-
+chrVIII	505247	505289	YHR203C	.	-
+chrIX	47742	47760	YIL156W-B	.	+
+chrIX	69113	69149	YIL148W	.	+
+chrIX	99095	99153	YIL133C	.	-
+chrIX	128118	128148	YIL123W	.	+
+chrIX	155278	155310	YIL111W	.	+
+chrIX	166486	166519	YIL106W	.	+
+chrIX	225809	225837	YIL073C	.	-
+chrIX	231957	232015	YIL069C	.	-
+chrIX	256554	256590	YIL052C	.	-
+chrIX	317137	317171	YIL018W	.	+
+chrIX	348363	348383	YIL004C	.	-
+chrX	50268	50351	YJL205C	.	-
+chrX	74178	74204	YJL191W	.	+
+chrX	76268	76324	YJL189W	.	+
+chrX	91376	91411	YJL177W	.	+
+chrX	156789	156816	YJL136C	.	-
+chrX	172432	172454	YJL130C	.	-
+chrX	365858	365902	YJL041W	.	+
+chrX	387348	387386	YJL031C	.	-
+chrX	396493	396518	YJL024C	.	-
+chrX	435308	435343	YJL001W	.	+
+chrX	469183	469198	YJR021C	.	-
+chrX	581009	581052	YJR079W	.	+
+chrX	608547	608581	YJR094W-A	.	+
+chrX	702798	702881	YJR145C	.	-
+chrXI	83055	83074	YKL190W	.	+
+chrXI	93311	93380	YKL186C	.	-
+chrXI	109859	109883	YKL180W	.	+
+chrXI	155598	155654	YKL157W	.	+
+chrXI	158932	158966	YKL156W	.	+
+chrXI	166473	166487	YKL150W	.	+
+chrXI	283371	283421	YKL081W	.	+
+chrXI	430455	430520	YKL006C-A	.	-
+chrXI	432383	432432	YKL006W	.	+
+chrXI	437882	437905	YKL002W	.	+
+chrXI	447706	447733	YKR004C	.	-
+chrXI	449951	449970	YKR005C	.	-
+chrXI	551980	552002	YKR057W	.	+
+chrXI	618374	618454	YKR094C	.	-
+chrXI	625951	625976	YKR095W-A	.	+
+chrXII	40221	40354	YLL050C	.	-
+chrXII	242650	242680	YLR048W	.	+
+chrXII	250860	250898	YLR054C	.	-
+chrXII	263538	263594	YLR061W	.	+
+chrXII	286467	286497	YLR078C	.	-
+chrXII	327258	327294	YLR093C	.	-
+chrXII	398581	398626	YLR128W	.	+
+chrXII	522981	523028	YLR185W	.	+
+chrXII	548677	548704	YLR199C	.	-
+chrXII	564454	564465	YLR211C	.	-
+chrXII	694441	694472	YLR275W	.	+
+chrXII	712725	712765	YLR287C-A	.	-
+chrXII	744216	744287	YLR306W	.	+
+chrXII	766073	766086	YLR316C-2	.	-
+chrXII	766181	766205	YLR316C-1	.	-
+chrXII	786666	786712	YLR329W	.	+
+chrXII	795912	795943	YLR333C	.	-
+chrXII	819756	819777	YLR344W	.	+
+chrXII	856411	856434	YLR367W-1	.	+
+chrXII	857038	857057	YLR367W-2	.	+
+chrXII	898623	898645	YLR388W	.	+
+chrXII	931349	931380	YLR406C	.	-
+chrXII	987193	987212	YLR426W	.	+
+chrXII	1024633	1024654	YLR445W	.	+
+chrXII	1029213	1029252	YLR448W	.	+
+chrXII	1067273	1067363	YLR464W	.	+
+chrXIII	23360	23500	YML124C	.	-
+chrXIII	82342	82373	YML094W	.	+
+chrXIII	99259	99301	YML085C	.	-
+chrXIII	123742	123777	YML073C	.	-
+chrXIII	140090	140113	YML067C	.	-
+chrXIII	163308	163422	YML056C	.	-
+chrXIII	206161	206203	YML036W	.	+
+chrXIII	211546	211570	YML034W	.	+
+chrXIII	223380	223421	YML026C	.	-
+chrXIII	225239	225264	YML025C	.	-
+chrXIII	226230	226289	YML024W	.	+
+chrXIII	236787	236953	YML017W	.	+
+chrXIII	337886	337903	YMR033W	.	+
+chrXIII	425113	425153	YMR079W	.	+
+chrXIII	499878	499899	YMR116C	.	-
+chrXIII	517842	517885	YMR125W	.	+
+chrXIII	537527	537564	YMR133W	.	+
+chrXIII	550801	550823	YMR142C	.	-
+chrXIII	552455	552495	YMR143W	.	+
+chrXIII	651593	651623	YMR194W	.	+
+chrXIII	652775	652798	YMR194C-B	.	-
+chrXIII	666933	666962	YMR201C	.	-
+chrXIII	721198	721232	YMR225C	.	-
+chrXIII	732835	732875	YMR230W	.	+
+chrXIII	753742	753789	YMR242C	.	-
+chrXIII	854879	854898	YMR292W	.	+
+chrXIV	48377	48401	YNL312W	.	+
+chrXIV	62372	62407	YNL302C	.	-
+chrXIV	64018	64059	YNL301C	.	-
+chrXIV	145149	145190	YNL265C	.	-
+chrXIV	185551	185586	YNL246W	.	+
+chrXIV	331800	331837	YNL162W	.	+
+chrXIV	351018	351053	YNL147W	.	+
+chrXIV	366093	366157	YNL138W-A	.	+
+chrXIV	380689	380724	YNL130C	.	-
+chrXIV	415869	415913	YNL112W	.	+
+chrXIV	443826	443862	YNL096C	.	-
+chrXIV	494524	494550	YNL069C	.	-
+chrXIV	501480	501502	YNL066W	.	+
+chrXIV	534874	534914	YNL050C	.	-
+chrXIV	545339	545370	YNL044W	.	+
+chrXIV	557670	557684	YNL038W	.	+
+chrXIV	609835	609874	YNL012W	.	+
+chrXIV	623267	623286	YNL004W	.	+
+chrXIV	721770	721809	YNR053C	.	-
+chrXV	80732	80774	YOL127W	.	+
+chrXV	92440	92476	YOL121C	.	-
+chrXV	93843	93868	YOL120C	.	-
+chrXV	240947	240977	YOL048C	.	-
+chrXV	242441	242454	YOL047C	.	-
+chrXV	506305	506338	YOR096W	.	+
+chrXV	552665	552738	YOR122C	.	-
+chrXV	678379	678420	YOR182C	.	-
+chrXV	778859	778909	YOR234C	.	-
+chrXV	780264	780277	snR17a	.	+
+chrXV	867516	867586	YOR293W	.	+
+chrXV	900767	900805	YOR312C	.	-
+chrXV	912085	912204	YOR318C	.	-
+chrXVI	75985	76014	YPL249C-A	.	-
+chrXVI	96153	96189	YPL241C	.	-
+chrXVI	115269	115293	YPL230W	.	+
+chrXVI	138845	138864	YPL218W	.	+
+chrXVI	173548	173571	YPL198W-1	.	+
+chrXVI	174036	174072	YPL198W-2	.	+
+chrXVI	218711	218746	YPL175W	.	+
+chrXVI	281373	281386	snR17b	.	-
+chrXVI	282626	282665	YPL143W	.	+
+chrXVI	305374	305411	YPL129W	.	+
+chrXVI	345444	345484	YPL109C	.	-
+chrXVI	377995	378033	YPL090C	.	-
+chrXVI	405428	405457	YPL081W	.	+
+chrXVI	407004	407067	YPL079W	.	+
+chrXVI	412960	413012	YPL075W	.	+
+chrXVI	492918	492960	YPL031C	.	-
+chrXVI	582558	582570	YPR010C-A	.	-
+chrXVI	623664	623710	YPR028W	.	+
+chrXVI	654536	654570	YPR043W	.	+
+chrXVI	678193	678222	YPR063C	.	-
+chrXVI	729385	729416	YPR098C	.	-
+chrXVI	795333	795394	YPR132W	.	+
+chrXVI	833782	833827	YPR153W	.	+
+chrXVI	883456	883486	YPR170W-B	.	+
+chrXVI	911331	911352	YPR187W	.	+
